@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 734,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué viene a ser, para Hume, la única justificación de la verdad?",
+    "opciones": [
+      "Es la costumbre,el hábito, la asociación de ideas",
+      "Necesita ser vivida",
+      "Erlebnis",
+      "s –"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 735,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué necesita la filosofía más que ninguna otra disciplina?",
+    "opciones": [
+      "Es la dialéctica",
+      "Necesita ser vivida",
+      "Doxa y episteme",
+      "philo y sophia"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 736,
+    "tema": "Filosofía",
+    "pregunta": "¿Según Hume, cuál es un fundamento caprichoso de la ciencia?",
+    "opciones": [
+      "La episteme",
+      "Es el amante de la sabiduría",
+      "Es la costumbre,el hábito, la asociación de ideas",
+      "Ustedes viven esa filosofía"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 737,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué término alemán, traduce, la palabra vivencia?",
+    "opciones": [
+      "Erlebnis",
+      "philo y sophia",
+      "La palabra filosofía",
+      "Desde Aristóteles"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 738,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuándo podremos formular alguna definición general de la filosofía?",
+    "opciones": [
+      "Cuando hayamos tenido auténticas vivencias",
+      "Es la dialéctica",
+      "Doxa y episteme",
+      "Necesita ser vivida"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 739,
+    "tema": "Filosofía",
+    "pregunta": "¿De qué voces griegas, está formada la palabra filosofía?",
+    "opciones": [
+      "Desde Aristóteles",
+      "philo y sophia",
+      "Erlebnis",
+      "Es la dialéctica"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 740,
+    "tema": "Filosofía",
+    "pregunta": "¿En qué fórmula puede resumirse el sistema filosófico de Hegel?",
+    "opciones": [
+      "Ustedes viven esa filosofía",
+      "Es la costumbre,el hábito, la asociación de ideas",
+      "Todo lo racional es real y todo lo real es racional",
+      "Es el amante de la sabiduría"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 741,
+    "tema": "Filosofía",
+    "pregunta": "¿Según García Morente, qué hacen cuando ustedes se ponen a leer, a meditar, los difíciles libros de Hegel?",
+    "opciones": [
+      "Todo lo racional es real y todo lo real es racional",
+      "Es la costumbre,el hábito, la asociación de ideas",
+      "philo y sophia",
+      "Ustedes viven esa filosofía"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 742,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién es un filósofo?",
+    "opciones": [
+      "Es el amante de la sabiduría",
+      "Desde Aristóteles",
+      "Es la dialéctica",
+      "Es la costumbre,el hábito, la asociación de ideas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 743,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué significa filosofía, en los primeros tiempos de la auténtica cultura griega?",
+    "opciones": [
+      "Desde Aristóteles",
+      "La sabiduría misma",
+      "Es la dialéctica",
+      "Doxa y episteme"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 744,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué distigue Platón al inicio de su filosofía?",
+    "opciones": [
+      "Es la dialéctica",
+      "La episteme",
+      "Doxa y episteme",
+      "Autodiscusión"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 745,
+    "tema": "Filosofía",
+    "pregunta": "Para Platón, ¿cuál es el método de la filosofía?",
+    "opciones": [
+      "Autodiscusión",
+      "Doxa y episteme",
+      "La episteme",
+      "Es la dialéctica"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 746,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo le llama Platón al método dialéctico?",
+    "opciones": [
+      "La episteme",
+      "Autodiscusión",
+      "Es la dialéctica",
+      "Doxa y episteme"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 747,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo llama Platón a la ciencia?",
+    "opciones": [
+      "La episteme",
+      "Autodiscusión",
+      "Es la dialéctica",
+      "Es la costumbre,el hábito, la asociación de ideas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 748,
+    "tema": "Filosofía",
+    "pregunta": "¿Con qué palabra, designa Aristóteles a todo ese conjunto del saber humano?",
+    "opciones": [
+      "Teología y filosofía",
+      "Desde Aristóteles",
+      "La palabra filosofía",
+      "Erlebnis"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 749,
+    "tema": "Filosofía",
+    "pregunta": "¿Desde qué filósofo, sigue empleándose la palabra filosofía en la historia de la cultura humana con el sentido de la totalidad del conocimiento humano?",
+    "opciones": [
+      "philo y sophia",
+      "Es el amante de la sabiduría",
+      "Comprende la ontología, lógica, la teoría del conocimiento, la ética, la estética, la filosofía de la religión",
+      "Desde Aristóteles"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 750,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuáles eran las partes de la filosofía en la época de Aristóteles?",
+    "opciones": [
+      "Siglo XVII",
+      "s –",
+      "Es la dialéctica",
+      "La palabra filosofía"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 751,
+    "tema": "Filosofía",
+    "pregunta": "¿En qué consiste la dialéctica platónica?",
+    "opciones": [
+      "Suponer",
+      "Autodiscusión",
+      "Teología",
+      "Desde Aristóteles"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 752,
+    "tema": "Filosofía",
+    "pregunta": "¿La lógica aristotélica estudiaba principalmente qué medios?",
+    "opciones": [
+      "Principios matemáticos de la filosofía natural",
+      "Porque son filósofos, matemáticos y físicos",
+      "Es el amante de la sabiduría",
+      "Medios de adquirir el conocimiento"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 753,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuáles son los dos gra ndes sectores en que se dividió el saber humano durante Edad Media?",
+    "opciones": [
+      "La palabra filosofía",
+      "Teología",
+      "Teología y filosofía",
+      "Desde Aristóteles"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 754,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo se llama el título del libro de Isaac Newton donde expone la teoría de la gravitación universal?",
+    "opciones": [
+      "La episteme",
+      "Principios matemáticos de la filosofía natural",
+      "Autodiscusión",
+      "Ontología"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 755,
+    "tema": "Filosofía",
+    "pregunta": "¿A partir de qué siglo, el campo inmenso de la filosofía empieza a desgajarse, a salir las ciencias particulares?",
+    "opciones": [
+      "Es la dialéctica",
+      "Doxa y episteme",
+      "Ontología y gnoseología",
+      "Siglo XVII"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 756,
+    "tema": "Filosofía",
+    "pregunta": "¿Por qué Descartes y Leibniz, todavía son espíritus enciclopédicos?",
+    "opciones": [
+      "Porque son filósofos, matemáticos y físicos",
+      "Principios matemáticos de la filosofía natural",
+      "Medios de adquirir el conocimiento",
+      "Una primera disposición de ánimo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 757,
+    "tema": "Filosofía",
+    "pregunta": "¿Actualmente de modo provisional y muy fluctuante que disciplinas son comprendidas dentro de la palabra filosofía?",
+    "opciones": [
+      "Desde Aristóteles",
+      "Es la dialéctica",
+      "Comprende la ontología, lógica, la teoría del conocimiento, la ética, la estética, la filosofía de la religión",
+      "La palabra filosofía"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 758,
+    "tema": "Filosofía",
+    "pregunta": "¿Para quién la sociología es como el contenido más granado y florido de la filosofía positiva?",
+    "opciones": [
+      "Una primera disposición de ánimo",
+      "Ontología y gnoseología",
+      "Augusto Comte",
+      "Cuando ha logrado circunscribir un trozo en el inmenso ámbito de la realidad, definirlo perfectamente y dedicar exlusivamente su atención a esa parte"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 759,
+    "tema": "Filosofía",
+    "pregunta": "¿La historia qué ha pulverizado o eliminado del continente filosófico?",
+    "opciones": [
+      "Las ciencias particulares",
+      "Cuando ha logrado circunscribir un trozo en el inmenso ámbito de la realidad, definirlo perfectamente y dedicar exlusivamente su atención a esa parte",
+      "Desde Aristóteles",
+      "Universal y totalitario"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 760,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuándo una ciencia se ha desprendido del viejo tronco de la filosofía?",
+    "opciones": [
+      "Universal y totalitario",
+      "Cuando ha logrado circunscribir un trozo en el inmenso ámbito de la realidad, definirlo perfectamente y dedicar exlusivamente su atención a esa parte",
+      "Las ciencias particulares",
+      "Ontología y gnoseología"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 761,
+    "tema": "Filosofía",
+    "pregunta": "Cuando la ciencia se sale de la filosofía, renuncia a considera su objeto desde un punto de vista:",
+    "opciones": [
+      "La totalidad del ser",
+      "Cuando ha logrado circunscribir un trozo en el inmenso ámbito de la realidad, definirlo perfectamente y dedicar exlusivamente su atención a esa parte",
+      "Desde Aristóteles",
+      "Universal y totalitario"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 762,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué tiene por objeto la ontología?",
+    "opciones": [
+      "Universal y totalitario",
+      "Ontología y gnoseología",
+      "La totalidad del ser",
+      "Las ciencias particulares"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 763,
+    "tema": "Filosofía",
+    "pregunta": "¿En la Eda Media, los conocimientos acerca de Dios forman qué disciplina?",
+    "opciones": [
+      "Teología y filosofía",
+      "Ontología",
+      "Gnoseología",
+      "Teología"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 764,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuáles son estos dos grandes partes o capítulos de la filosofía?",
+    "opciones": [
+      "Ontología y gnoseología",
+      "Augusto Comte",
+      "Cuando ha logrado circunscribir un trozo en el inmenso ámbito de la realidad, definirlo perfectamente y dedicar exlusivamente su atención a esa parte",
+      "Una primera disposición de ánimo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 765,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué es la teoría de los objetos conocidos y cognoscibles?",
+    "opciones": [
+      "Gnoseología",
+      "Ontología",
+      "Principios matemáticos de la filosofía natural",
+      "Es el de la causalidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 766,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué es el estudio del conocimiento de los objetos?",
+    "opciones": [
+      "Ontología",
+      "Es el de la causalidad",
+      "Es admirarse",
+      "Gnoseología"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 767,
+    "tema": "Filosofía",
+    "pregunta": "¿De qué solamente trata la ética?",
+    "opciones": [
+      "Entre la juventud de Atenas, entre niños y las mujeres",
+      "La intuición de la idea y esfuerzo crítico",
+      "De la acción humana o de los valores éticos",
+      "El que tiene una disposición filosófica"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 768,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué es absolutamente indispensable para abordar y entrar en el territorio de la filosofía?",
+    "opciones": [
+      "Una primera disposición de ánimo",
+      "Augusto Comte",
+      "Ontología y gnoseología",
+      "Cuando ha logrado circunscribir un trozo en el inmenso ámbito de la realidad, definirlo perfectamente y dedicar exlusivamente su atención a esa parte"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 769,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el más célebre de los análisis de Hume?",
+    "opciones": [
+      "Gnoseología",
+      "Es el de la causalidad",
+      "Es admirarse",
+      "La mayéutica"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 770,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es la primera virtud del filósofo para Platón?",
+    "opciones": [
+      "En una contraposición de intuiciones sucesivas",
+      "Es admirarse",
+      "A los mitos",
+      "La intuición de la idea y esfuerzo crítico"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 771,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién está siempre inquieto, intranquilo, percibiendo en la más mínima problemas, arcanos, misterios, incógnitas, que los demás no ven?",
+    "opciones": [
+      "En una contraposición de intuiciones sucesivas",
+      "Es el de la causalidad",
+      "El que tiene una disposición filosófica",
+      "Una primera disposición de ánimo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 772,
+    "tema": "Filosofía",
+    "pregunta": "¿La disposición filosófica primaria consiste en convertir todo en qué?",
+    "opciones": [
+      "En problema",
+      "En el pensamiento",
+      "En una contraposición de intuiciones sucesivas",
+      "Es admirarse"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 773,
+    "tema": "Filosofía",
+    "pregunta": "¿Sócrates, el maestro de Platón, entre quienes andaba en Atenas?",
+    "opciones": [
+      "En la dialéctica",
+      "La mayéutica",
+      "En una contraposición de intuiciones sucesivas",
+      "Entre la juventud de Atenas, entre niños y las mujeres"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 774,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es la mejor edad para comenzar a filosofar?.",
+    "opciones": [
+      "La mayéutica",
+      "En el pensamiento",
+      "Es la juventud",
+      "La lógica"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 775,
+    "tema": "Filosofía",
+    "pregunta": "¿La segunda disposición para filosofar exige rigor en qué actividad?",
+    "opciones": [
+      "En problema",
+      "La mayéutica",
+      "Es la juventud",
+      "En el pensamiento"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 776,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el método que Sócrates emplea para filosofar?",
+    "opciones": [
+      "La lógica",
+      "La mayéutica",
+      "Es la juventud",
+      "En la dialéctica"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 777,
+    "tema": "Filosofía",
+    "pregunta": "¿Platón perfecciona la mayéutica de Sócrates y en qué lo convierte?",
+    "opciones": [
+      "En la dialéctica",
+      "Entre la juventud de Atenas, entre niños y las mujeres",
+      "La mayéutica",
+      "En una contraposición de intuiciones sucesivas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 778,
+    "tema": "Filosofía",
+    "pregunta": "La dialéctica se descompone, para Platón, en dos momentos, ¿Cuáles son?",
+    "opciones": [
+      "En una contraposición de intuiciones sucesivas",
+      "Es admirarse",
+      "La intuición de la idea y esfuerzo crítico",
+      "En la dialéctica"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 779,
+    "tema": "Filosofía",
+    "pregunta": "¿A qué apela y es muy aficionado Platón, para expresar su pensamiento filosófico?",
+    "opciones": [
+      "En una contraposición de intuiciones sucesivas",
+      "Es admirarse",
+      "La intuición de la idea y esfuerzo crítico",
+      "A los mitos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 780,
+    "tema": "Filosofía",
+    "pregunta": "¿En qué consiste la dialéctica para Platón?",
+    "opciones": [
+      "En una contraposición de intuiciones sucesivas",
+      "La intuición de la idea y esfuerzo crítico",
+      "Es admirarse",
+      "En problema"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 781,
+    "tema": "Filosofía",
+    "pregunta": "¿Platón metafóricamente llama al lugar celeste, con que expresión griega?",
+    "opciones": [
+      "En una contraposición de intuiciones sucesivas",
+      "Topos uranos",
+      "La intuición de la idea y esfuerzo crítico",
+      "Es admirarse"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 782,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién es el que le da estructura y forma definitiva a la lógica, la misma forma que tiene hoy, que no ha cambiado durante todos estos siglos?",
+    "opciones": [
+      "Es la intuición sensible",
+      "La lógica",
+      "Aristóteles",
+      "Es inmanente"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 783,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el método de la filosofía para Aristóteles?",
+    "opciones": [
+      "La lógica",
+      "Un método indirecto",
+      "La mayéutica",
+      "Descartes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 784,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién es el autor de la obra el Discurso del Método?",
+    "opciones": [
+      "La lógica",
+      "Descartes",
+      "Un método indirecto",
+      "La mayéutica"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 785,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo es el mundo inteligible en Descartes?",
+    "opciones": [
+      "Kant",
+      "Para Hume",
+      "Es la intuición sensible",
+      "Es inmanente"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 786,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué filósofos alemanes consideran que el método esencial de la filosofía es la intuición intelectual?",
+    "opciones": [
+      "Para Hume",
+      "La lógica",
+      "Fichte, Schelling y Hegel",
+      "Descartes"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 787,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién hace la distinción entre el mundo sensible fenoménico y el mundo de las cosas en sí mismo, independientemente de que aparezcan como fenómenos para nosotros?",
+    "opciones": [
+      "Es inmanente",
+      "Descartes",
+      "Para Hume",
+      "Kant"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 788,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién hace, pues, de la intuición el método primordial de la filosofía?",
+    "opciones": [
+      "Descartes",
+      "La lógica",
+      "Fichte, Schelling y Hegel",
+      "Husserl"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 789,
+    "tema": "Filosofía",
+    "pregunta": "¿A qué conocimiento se contrapone la intuición, que se nos ofrece, en primer término, como un medio de llegar al conocimiento de algo?",
+    "opciones": [
+      "Husserl",
+      "Al conocimiento discursivo",
+      "Es la intuición volitiva",
+      "Mística emotiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 790,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo es el método discursivo esencialmente?",
+    "opciones": [
+      "La lógica",
+      "Un método indirecto",
+      "Descartes",
+      "Fichte, Schelling y Hegel"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 791,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo se llama, aquella intuición, que es inmediata, es una comunicación directa entre el objeto y yo?",
+    "opciones": [
+      "Intuición real",
+      "Para Hume",
+      "Husserl",
+      "Es la intuición sensible"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 792,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo se llama aquella intuición que penetra al fondo mismo de la cosa, que llega a captar su esencia, su existencia, su consistencia?",
+    "opciones": [
+      "Intuición real",
+      "Es la intuición sensible",
+      "Para Hume",
+      "Husserl"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 793,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuáles son las tres clases de intuición real que podemos a su vez dividir?",
+    "opciones": [
+      "Husserl",
+      "Es la intuición volitiva",
+      "Actitud intelectual, emotiva y volitiva",
+      "Mística emotiva"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 794,
+    "tema": "Filosofía",
+    "pregunta": "¿Para quién, la existencia del mundo exterior y la existencia de nuestro propio yo no pueden ser objeto de intuición intelectual?",
+    "opciones": [
+      "Fichte, Schelling y Hegel",
+      "Es la intuición sensible",
+      "Intuición real",
+      "Para Hume"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 795,
+    "tema": "Filosofía",
+    "pregunta": "¿Fichte representa con plenitud, qué tipo de intuición?",
+    "opciones": [
+      "Volitivo",
+      "Mística emotiva",
+      "Husserl",
+      "Es la intuición volitiva"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 796,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo se caracteriza la intuición de Dilthey?",
+    "opciones": [
+      "Husserl",
+      "Es la intuición volitiva",
+      "Mística emotiva",
+      "Volitivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 797,
+    "tema": "Filosofía",
+    "pregunta": "¿Bergson qué modalidad de intuición representa?",
+    "opciones": [
+      "Volitivo",
+      "Husserl",
+      "Mística emotiva",
+      "Es la intuición volitiva"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 798,
+    "tema": "Filosofía",
+    "pregunta": "¿A quién corresponde la intuición fenomenológica?",
+    "opciones": [
+      "Es la intuición volitiva",
+      "Mística emotiva",
+      "Volitivo",
+      "Husserl"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 799,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué significa literalmente ontología?",
+    "opciones": [
+      "Teoria del ser",
+      "En metafísica y teoria del objeto o teoría de la consistencia en general",
+      "Lo que son",
+      "Es el número"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 800,
+    "tema": "Filosofía",
+    "pregunta": "¿La gnoseología es llamada teoría de qué actividad?",
+    "opciones": [
+      "Es la intuición sensible",
+      "Un método indirecto",
+      "Del saber",
+      "El agua"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 801,
+    "tema": "Filosofía",
+    "pregunta": "¿Hegel con qué concepto acaba por identificar por completo el concepto del \"ser\"?",
+    "opciones": [
+      "Actitud intelectual, emotiva y volitiva",
+      "Con el concepto de \"nada\"",
+      "Es la intuición volitiva",
+      "Una construcción metafísica propia"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 802,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo se divide la ontología para Manuel García Morente?",
+    "opciones": [
+      "Teoria del ser",
+      "Con el concepto de \"nada\"",
+      "Actitud intelectual, emotiva y volitiva",
+      "En metafísica y teoria del objeto o teoría de la consistencia en general"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 803,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué pueblo es señalado como el primero que de verdad filosofa?",
+    "opciones": [
+      "Es la intuición sensible",
+      "Griego",
+      "Parménides",
+      "Del saber"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 804,
+    "tema": "Filosofía",
+    "pregunta": "¿Los griegos descubrieron que la razón podía hallar qué de las cosas?",
+    "opciones": [
+      "El agua",
+      "Es el número",
+      "Lo que son",
+      "Teoria del ser"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 805,
+    "tema": "Filosofía",
+    "pregunta": "¿Para Thales de Mileto, qué es el principio de todas las cosas?",
+    "opciones": [
+      "El agua",
+      "Principio de identidad",
+      "Platón",
+      "Lo que son"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 806,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué es para Pitágoras, la esencia última de todo ser, de los que percibimos por los sentidos?",
+    "opciones": [
+      "Aristóteles",
+      "Es el número",
+      "Parménides",
+      "La idea del bien"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 807,
+    "tema": "Filosofía",
+    "pregunta": "¿A quién pertenece lo expresado en su lenguaje metafórico y místico: \"Nunca nos bañamos dos veces en el mismo río\"?",
+    "opciones": [
+      "Griego",
+      "Platón",
+      "Heráclito",
+      "Parménides"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 808,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo se llamó, en las historias de la filosofía, la escuela de filósofos influenciados por Parménides?",
+    "opciones": [
+      "Escuela eleática",
+      "Una construcción metafísica propia",
+      "Mundo inteligible",
+      "Principio de identidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 809,
+    "tema": "Filosofía",
+    "pregunta": "¿Parménides, qué añade a la crítica de Heráclito?",
+    "opciones": [
+      "Principio de identidad",
+      "Escuela eleática",
+      "Mundo inteligible",
+      "Una construcción metafísica propia"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 810,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo llaman los lógicos actuales, al principio que descubre Parménides?",
+    "opciones": [
+      "Una construcción metafísica propia",
+      "Principio de identidad",
+      "El agua",
+      "Escuela eleática"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 811,
+    "tema": "Filosofía",
+    "pregunta": "¿Parménides distingue por primera vez en la historia de la filosofía, entre el mundo sensible y qué mundo?",
+    "opciones": [
+      "Mundo inteligible",
+      "Escuela eleática",
+      "Una construcción metafísica propia",
+      "La substancia"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 812,
+    "tema": "Filosofía",
+    "pregunta": "¿A quién de los filósofos convence el argumento de Zenón de que el movimiento, pensado según el principio de identidad, resulta ininteligible?",
+    "opciones": [
+      "El agua",
+      "Principio de identidad",
+      "Escuela eleática",
+      "Platón"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 813,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién es el descubridor de la identificación entre el ser y el pensar?",
+    "opciones": [
+      "La idea del bien",
+      "\"Forma y materia\"",
+      "Parménides",
+      "La substancia"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 814,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué aporta Sócrates al caudal de la filosofía de interés fundamental?",
+    "opciones": [
+      "La verdad",
+      "Los conceptos",
+      "Escuela eleática",
+      "Mundo inteligible"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 815,
+    "tema": "Filosofía",
+    "pregunta": "La palabra \"idea\" es un neologismo, ¿qué filósofo inventó esa palabra?",
+    "opciones": [
+      "Platón",
+      "La idea del bien",
+      "Aristóteles",
+      "Parménides"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 816,
+    "tema": "Filosofía",
+    "pregunta": "¿Para Platón, qué idea es la más importante a realizar?",
+    "opciones": [
+      "Platón",
+      "Parménides",
+      "La idea del bien",
+      "\"Forma y materia\""
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 817,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién es el filósofo que distingue en la cosa real, tres elementos: substancia, esencia y accidente?",
+    "opciones": [
+      "Descartes",
+      "Es el número",
+      "La verdad",
+      "Aristóteles"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 818,
+    "tema": "Filosofía",
+    "pregunta": "¿Para qué filósofo, la materia, es simplemente \"aquello con que está hecho algo\"?",
+    "opciones": [
+      "Platón",
+      "Aristóteles",
+      "Descartes",
+      "Parménides"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 819,
+    "tema": "Filosofía",
+    "pregunta": "¿Dónde desemboca inevitablemente la metafísica de Aristóteles?",
+    "opciones": [
+      "En la teoría cartesiana del juicio",
+      "\"Forma y materia\"",
+      "La substancia",
+      "En una teología"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 820,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es la primera categoría que Aristóteles enumera en su lista?",
+    "opciones": [
+      "La substancia",
+      "\"Forma y materia\"",
+      "Mundo inteligible",
+      "En una teología"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 821,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es la pareja de conceptos que, Aristóteles, descompone del ser?",
+    "opciones": [
+      "La substancia",
+      "En una teología",
+      "\"Forma y materia\"",
+      "Parménides"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 822,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué filósofo distingue de cada cosa cuatro causas, como ser: material, formal, eficiente y final?",
+    "opciones": [
+      "La verdad",
+      "La sensación y la reflexión",
+      "Aristóteles",
+      "Mundo inteligible"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 823,
+    "tema": "Filosofía",
+    "pregunta": "¿Dónde hay que buscar los ejemplos inevitablemente, cuando se expone la lógica de Aristóteles?",
+    "opciones": [
+      "En una teología",
+      "s –",
+      "En la teoría cartesiana del juicio",
+      "\"Forma y materia\""
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 824,
+    "tema": "Filosofía",
+    "pregunta": "¿En la filosofía del realismo, por la adecuación entre el pensamiento y la cosa, qué se define?",
+    "opciones": [
+      "La verdad",
+      "Empirismo",
+      "Aristóteles",
+      "En la teoría cartesiana del juicio"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 825,
+    "tema": "Filosofía",
+    "pregunta": "¿La inteligibilidad de las cosas mismas es, pues, uno de los postulados esenciales, de qué pensamiento filosófico?",
+    "opciones": [
+      "Empirismo",
+      "La verdad",
+      "cosa en sí misma",
+      "Del realismo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 826,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién convierte la duda en método?",
+    "opciones": [
+      "Descartes",
+      "Empirismo",
+      "Racionalismo",
+      "Idealismo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 827,
+    "tema": "Filosofía",
+    "pregunta": "¿Dónde se expresa muy bien, el carácter voluntario que tiene el pensamiento idealista?",
+    "opciones": [
+      "En una teología",
+      "Empirismo",
+      "En la teoría cartesiana del juicio",
+      "La verdad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 828,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué filósofo afirma: yo soy una substancia pensante?",
+    "opciones": [
+      "Aristóteles",
+      "Tratado sobre el entendimiento humano",
+      "Empirismo",
+      "Descartes"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 829,
+    "tema": "Filosofía",
+    "pregunta": "¿A qué dan cuerpo y margen, el mundo sensible que se compone de pensamientos oscuros y confusos en Descartes?",
+    "opciones": [
+      "Es el mundo de la ciencia moderna",
+      "A la duda",
+      "cosa en sí misma",
+      "\"Forma y materia\""
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 830,
+    "tema": "Filosofía",
+    "pregunta": "¿Para Descartes, cuál es, ese mundo de una pura substancialidad geométrica?",
+    "opciones": [
+      "Es el mundo de la ciencia moderna",
+      "cosa en sí misma",
+      "A la duda",
+      "Empirismo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 831,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo se intitula la obra de John Locke, el primer filósofo de quien se dice qu e hace una teoría del conocimiento?",
+    "opciones": [
+      "Crítica de la razón pura, Crítica de la razón práctica y Crítica del juicio",
+      "Tratado sobre el entendimiento humano",
+      "La sensación y la reflexión",
+      "Descartes"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 832,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuáles son los tres grandes libros de Kant, que no son sino la forma más completa y perfecta que en la filosofía moderna ha tomado la teoría del conocimiento?",
+    "opciones": [
+      "Tratado sobre el entendimiento humano",
+      "Leibniz",
+      "Verdades de razón y verdades de hecho",
+      "Crítica de la razón pura, Crítica de la razón práctica y Crítica del juicio"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 833,
+    "tema": "Filosofía",
+    "pregunta": "Según Locke distingue dos fuentes posibles de nuestras ideas, ¿cuáles son?",
+    "opciones": [
+      "Tratado sobre el entendimiento humano",
+      "Verdades de razón y verdades de hecho",
+      "La sensación y la reflexión",
+      "Aristóteles"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 834,
+    "tema": "Filosofía",
+    "pregunta": "Esta corriente filosófica es el esfuerzo más grande que se conoce en la historia del pensamiento humano para reducir el pensamiento a pura vivencia:",
+    "opciones": [
+      "La verdad",
+      "Del realismo",
+      "Empirismo",
+      "En la teoría cartesiana del juicio"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 835,
+    "tema": "Filosofía",
+    "pregunta": "La raíz profunda del idealismo, desde el mismo Descartes, es eliminar del tablero filosófico la noción de:",
+    "opciones": [
+      "Es el mundo de la ciencia moderna",
+      "cosa en sí misma",
+      "Del realismo",
+      "A la duda"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 836,
+    "tema": "Filosofía",
+    "pregunta": "Nombre del autor que señala que los conceptos generales no existen; el triángulo no existe; el triángulo es únicamente un nombre, \"flatus vocis\":",
+    "opciones": [
+      "Berkeley",
+      "Leibniz",
+      "El realismo aristotélico",
+      "Es el mundo de la ciencia moderna"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 837,
+    "tema": "Filosofía",
+    "pregunta": "Esta corri ente filosófica supone el absurdo de que las cosas existen independientemente de que sean o puedan ser conocidas por nadie:",
+    "opciones": [
+      "Berkeley",
+      "Del realismo",
+      "Empirismo",
+      "El realismo aristotélico"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 838,
+    "tema": "Filosofía",
+    "pregunta": "Nombre del autor que vio que el error del empirismo consistía en su intento de reducir lo racional a lo fáctico; la razón a puro hecho:",
+    "opciones": [
+      "Berkeley",
+      "Son aquellas verdades que enuncian un ser o un consistir contingente",
+      "Leibniz",
+      "Empirismo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 839,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo está compuesto el conocimiento humano según Leibniz?",
+    "opciones": [
+      "Son aquellas verdades que enuncian un ser o un consistir contingente",
+      "Verdades de razón y verdades de hecho",
+      "La sensación y la reflexión",
+      "Espíritu"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 840,
+    "tema": "Filosofía",
+    "pregunta": "¿En qué consisten las verdades de hecho de Leibniz?",
+    "opciones": [
+      "Son aquellas verdades que enuncian un ser o un consistir contingente",
+      "Espíritu",
+      "Verdades de razón y verdades de hecho",
+      "Juicios asertóricos"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 841,
+    "tema": "Filosofía",
+    "pregunta": "Denominación de aquellos juicios en donde el predicado no puede por menos de ser predicado del sujeto, o dicho de otro modo, en donde el predicado pertenece necesariamente al sujeto, como cuando decimos que el cuadrado tiene cuatro lados:",
+    "opciones": [
+      "Juicios asertóricos",
+      "energía",
+      "Descartes",
+      "Juicios apodícticos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 842,
+    "tema": "Filosofía",
+    "pregunta": "Denominación de aquellos juicios en donde el predicado pertenece al sujeto; pero el pertenecer al sujeto no es de derecho sino de hecho:",
+    "opciones": [
+      "Juicios apodícticos",
+      "Juicios asertóricos",
+      "Son aquellas verdades que enuncian un ser o un consistir contingente",
+      "Optimismo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 843,
+    "tema": "Filosofía",
+    "pregunta": "Término latino que quiere decir, en razonamientos filosóficos, independiente de la experiencia:",
+    "opciones": [
+      "A priori",
+      "Juicios asertóricos",
+      "Juicios apodícticos",
+      "Cálculo diferencial"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 844,
+    "tema": "Filosofía",
+    "pregunta": "¿En qué filosofo se halla representada la forma más perfecta de la metafí sica del racionalismo?",
+    "opciones": [
+      "Crítica de la razón pura, Crítica de la razón práctica y Crítica del juicio",
+      "Dios",
+      "Leibniz",
+      "Descartes"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 845,
+    "tema": "Filosofía",
+    "pregunta": "¿Para qué filosofo las cosas reales no son ni más ni menos que simples figuras geométricas?",
+    "opciones": [
+      "Leibniz",
+      "Juicios apodícticos",
+      "El realismo aristotélico",
+      "Descartes"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 846,
+    "tema": "Filosofía",
+    "pregunta": "Este tipo de cálculo busca la formulación exacta de lo que distingue al punto de la recta y al punto de la curva, la diferencia que hay entre ellos:",
+    "opciones": [
+      "Cálculo diferencial",
+      "Cálculo cartesiano",
+      "Racionalismo",
+      "A priori"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 847,
+    "tema": "Filosofía",
+    "pregunta": "Este tipo de cálculo es el esfuerzo por encontrar la formulación matemática que permita, en la definición del punto mismo, ver ya incl uida la dirección que va a tomar: si recta o curva, o elipse, o parábola, o hipérbole, o cualquier otra trayectoria:",
+    "opciones": [
+      "Cálculo diferencial",
+      "Cálculo cartesiano",
+      "Racionalismo",
+      "cosa en sí misma"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 848,
+    "tema": "Filosofía",
+    "pregunta": "Denominación del conjunto de cuerpos que están en movimiento relativo, los unos con respecto a los otros, pero que constituyen un conjunto, un sistema, dentro del cual no penetra ninguna influencia de afuera:",
+    "opciones": [
+      "Dios",
+      "Idealismo trascendental",
+      "Sistema cerrado de cuerpos",
+      "Optimismo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 849,
+    "tema": "Filosofía",
+    "pregunta": "La mónada es aquello que tiene fuerza, aquello que tiene:",
+    "opciones": [
+      "Dios",
+      "Juicios apodícticos",
+      "El principio de identidad",
+      "energía"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 850,
+    "tema": "Filosofía",
+    "pregunta": "¿Para qué filosofo los animales tienen alma, porque tienen apercepción, se dan cuenta, y además tienen memoria?",
+    "opciones": [
+      "Leibniz",
+      "Espíritu",
+      "Descartes",
+      "energía"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 851,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo denomina Leibniz a las almas que además poseen la posibilidad, capacidad o facultad de conocer las verdades racionales, las verdades de razón?",
+    "opciones": [
+      "Son aquellas verdades que enuncian un ser o un consistir contingente",
+      "Kant",
+      "Verdades de razón y verdades de hecho",
+      "Espíritu"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 852,
+    "tema": "Filosofía",
+    "pregunta": "¿Quién es la mónada perfecta, en la cual toda idea es clara, ninguna confusa, y toda percepción es apercibida o consciente?",
+    "opciones": [
+      "energía",
+      "Dios",
+      "Es la percepción sensible",
+      "Leibniz"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 853,
+    "tema": "Filosofía",
+    "pregunta": "Denominación de la teoría de Leibniz por la cual este mundo creado por Dios es el mejor de los mundos posibles:",
+    "opciones": [
+      "Kant",
+      "Verdades de razón",
+      "Optimismo",
+      "Juicios asertóricos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 854,
+    "tema": "Filosofía",
+    "pregunta": "Según Leibniz el ideal del conocimiento científico consiste en estructurar todos sus elementos como:",
+    "opciones": [
+      "Verdades de razón",
+      "Racionalismo",
+      "Critica de la razón pura",
+      "Optimismo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 855,
+    "tema": "Filosofía",
+    "pregunta": "¿De qué corriente filosófica su ideal consiste en que el conocimiento humano llegue a estructurarse del mismo modo como lo está la matemática, como lo está la geometría, el álgebra, la aritmética, el cálculo diferencial y el cálculo integral?",
+    "opciones": [
+      "Matemático, físico y metafísico",
+      "Verdades de razón",
+      "Racionalismo",
+      "Juicios sintéticos a priori"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 856,
+    "tema": "Filosofía",
+    "pregunta": "Denominación del nuevo periodo filosófico que abre Kant y llega hasta nuestros días:",
+    "opciones": [
+      "Es la percepción sensible",
+      "Optimismo",
+      "Matemático, físico y metafísico",
+      "Idealismo trascendental"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 857,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el libro de Kant que más se ha estudiado, comentado y discutido de to da la literatura filosófica de todos los tiempos?",
+    "opciones": [
+      "Es la percepción sensible",
+      "Critica de la razón pura",
+      "Verdades de razón",
+      "Matemático, físico y metafísico"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 858,
+    "tema": "Filosofía",
+    "pregunta": "¿Para qué autor la teoría del conocimiento significa la teoría de la físico-matemática de Newton y que denomina el hecho de la razón pura?",
+    "opciones": [
+      "Optimismo",
+      "Espíritu",
+      "Porque ella se funda en el espacio y en el tiempo",
+      "Kant"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 859,
+    "tema": "Filosofía",
+    "pregunta": "Tipo de juicios lógicos, que para Kant, son aquellos en los cuales el predicado del juicio está contenido en el concepto del sujeto:",
+    "opciones": [
+      "Juicios sintéticos",
+      "Deducción",
+      "Juicios analíticos",
+      "Juicios sintéticos a priori"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 860,
+    "tema": "Filosofía",
+    "pregunta": "Tipo de juicios lógicos que son aquellos en los cuales el concepto del predicado no está contenido en el concepto del sujeto; de suerte que por mucho que analicemos el concepto del sujeto no encontraremos nunca dentro de él el concepto el predicado:",
+    "opciones": [
+      "Juicios analíticos",
+      "Juicios sintéticos",
+      "Deducción",
+      "Juicios sintéticos a priori"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 861,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el fundamento del juicio analítico?",
+    "opciones": [
+      "El principio de identidad",
+      "La experiencia",
+      "Juicios analíticos",
+      "Dios"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 862,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el fundamento de legitimidad del juicio sintético?",
+    "opciones": [
+      "El principio de identidad",
+      "La experiencia",
+      "Juicios analíticos",
+      "Dios"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 863,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué es la experiencia para Kant?",
+    "opciones": [
+      "Es la percepción sensible",
+      "Puro",
+      "Trascendental",
+      "Matemático, físico y metafísico"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 864,
+    "tema": "Filosofía",
+    "pregunta": "¿Por qué juicios está constituida las ciencias?",
+    "opciones": [
+      "Juicios analíticos",
+      "Porque ella se funda en el espacio y en el tiempo",
+      "Juicios sintéticos a priori",
+      "Racionalismo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 865,
+    "tema": "Filosofía",
+    "pregunta": "Este tipo de inferencia parte de un concepto general para extraer de él lo que había contenido dentro de su seno:",
+    "opciones": [
+      "Juicios sintéticos",
+      "Inducción",
+      "Juicios analíticos",
+      "Deducción"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 866,
+    "tema": "Filosofía",
+    "pregunta": "Este tipo de inferencia parte de hechos particulares, de observaciones, de experimentaciones, para luego amplificar la validez de estas observaciones, todas ellas particulares y contingentes, y extenderla, darle un ámbito y una validez mucho mayor de la que tenían; no ya mucho mayor, sino universal y necesaria:",
+    "opciones": [
+      "Deducción",
+      "Inducción",
+      "Juicios sintéticos",
+      "Juicios analíticos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 867,
+    "tema": "Filosofía",
+    "pregunta": "¿En qué grupos divide Kant el conocimiento humano?",
+    "opciones": [
+      "Racionalismo",
+      "Es la percepción sensible",
+      "Trascendental",
+      "Matemático, físico y metafísico"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 868,
+    "tema": "Filosofía",
+    "pregunta": "¿Por qué los juicios sintéticos a priori son posibles en la matemática?",
+    "opciones": [
+      "Estética trascendental",
+      "Puro",
+      "Porque ella se funda en el espacio y en el tiempo",
+      "Juicios sintéticos a priori"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 869,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el sentido tradicional de la palabra metafísica?",
+    "opciones": [
+      "El conocimiento de aquellos objetos que no están en la experiencia: el conocimiento de aquellos objetos como Dios, la inmortalidad del alma, la libertad de la voluntad del hombre, que no están en la experiencia",
+      "Teoría de lo bello",
+      "Teoría de la percepción",
+      "Es la percepción sensible"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 870,
+    "tema": "Filosofía",
+    "pregunta": "Sinónimo utilizado por Kant para a priori o independiente de la experiencia:",
+    "opciones": [
+      "Puro",
+      "Es la percepción sensible",
+      "Trascendental",
+      "Porque ella se funda en el espacio y en el tiempo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 871,
+    "tema": "Filosofía",
+    "pregunta": "Denominación del acto del espíritu que toma conocimiento directo de una individualidad:",
+    "opciones": [
+      "Teoría de la percepción",
+      "Matemático, físico y metafísico",
+      "Intuición",
+      "Trascendental"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 872,
+    "tema": "Filosofía",
+    "pregunta": "Término que significa “lo que existe en sí y por sí, independientemente de mí”:",
+    "opciones": [
+      "Trascendental",
+      "Trascedente",
+      "Intuición",
+      "Puro"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 873,
+    "tema": "Filosofía",
+    "pregunta": "Término utilizado por Kant para designar cualidad o propiedad de lo objetivo que no es en sí mismo, pero que es el término al cual va enderezado el conocimiento:",
+    "opciones": [
+      "Puro",
+      "Trascedente",
+      "Es la percepción sensible",
+      "Trascendental"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 874,
+    "tema": "Filosofía",
+    "pregunta": "La palabra “crítica” en su sentido primordial griego significa:",
+    "opciones": [
+      "s –",
+      "El conocimiento de aquellos objetos que no están en la experiencia: el conocimiento de aquellos objetos como Dios, la inmortalidad del alma, la libertad de la voluntad del hombre, que no están en la experiencia",
+      "Trascedente",
+      "Juicios sintéticos a priori"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 875,
+    "tema": "Filosofía",
+    "pregunta": "Para Kant el tiempo puede pensarse a través de:",
+    "opciones": [
+      "Fenómenos",
+      "pura intuición",
+      "Es la percepción sensible",
+      "Facultad de tener percepciones"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 876,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué entiende Kant por sensibilidad?",
+    "opciones": [
+      "Matemático, físico y metafísico",
+      "Substancia",
+      "Acción reciproca",
+      "Facultad de tener percepciones"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 877,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el significado moderno de la palabra estética?",
+    "opciones": [
+      "Teoría de la percepción",
+      "El conocimiento de aquellos objetos que no están en la experiencia: el conocimiento de aquellos objetos como Dios, la inmortalidad del alma, la libertad de la voluntad del hombre, que no están en la experiencia",
+      "Teoría de lo bello",
+      "Juicio hipotético"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 878,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el significado que toma Kant de la palabra estética?",
+    "opciones": [
+      "Teoría de lo bello",
+      "Intuición",
+      "Teoría de la percepción",
+      "El conocimiento de aquellos objetos que no están en la experiencia: el conocimiento de aquellos objetos como Dios, la inmortalidad del alma, la libertad de la voluntad del hombre, que no están en la experiencia"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 879,
+    "tema": "Filosofía",
+    "pregunta": "Las cosas recubiertas de las formas de espacio y tiempo son denominadas por Kant como:",
+    "opciones": [
+      "Fenómenos",
+      "pura intuición",
+      "Metafísica",
+      "Facultad de tener percepciones"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 880,
+    "tema": "Filosofía",
+    "pregunta": "Denominación del estudio de las condiciones bajo las cuales es posible una ciencia a priori de la matemática, las condiciones que determinan a priori la forma de todo objeto posible:",
+    "opciones": [
+      "Porque ella se funda en el espacio y en el tiempo",
+      "Puro",
+      "Juicio hipotético",
+      "Estética trascendental"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 881,
+    "tema": "Filosofía",
+    "pregunta": "¿Cómo se denomina a la afirmación o la negación que hacemos de una propiedad que atribuimos o no atribuimos a algo?",
+    "opciones": [
+      "Trascendental",
+      "Juicio",
+      "Fenómenos",
+      "Substancia"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 882,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es la función fundamental de los juicios?",
+    "opciones": [
+      "12",
+      "Juicio hipotético",
+      "Juicio disyuntivo",
+      "Poner la realidad"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 883,
+    "tema": "Filosofía",
+    "pregunta": "Esta forma del juicio, en la lógica formal, es aquel que afirma sin condición ninguna el predicado del sujeto; como por ejemplo, el aire es pesado:",
+    "opciones": [
+      "Juicio categórico",
+      "Juicio hipotético",
+      "Juicio disyuntivo",
+      "Substancia"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 884,
+    "tema": "Filosofía",
+    "pregunta": "Esta forma del juicio, en la lógica formal, es aquel que no afirma el predicado del sujeto más que sub condicione; por ejemplo, si A es B, entonces es C, o si Juan es argentino, entonces es americano:",
+    "opciones": [
+      "Juicio categórico",
+      "Juicio disyuntivo",
+      "Juicio hipotético",
+      "Substancia"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 885,
+    "tema": "Filosofía",
+    "pregunta": "Esta forma del juicio, en la lógica formal, es aquel en que ase afirman alternativa y exclusivamente uno u otro predicado, o varios predicados; por ejemplo, cuando decimos A es B, o C, o D o Antonio es español, o portugués o italiano:",
+    "opciones": [
+      "Juicio categórico",
+      "Juicio disyuntivo",
+      "Juicio hipotético",
+      "Substancia"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 886,
+    "tema": "Filosofía",
+    "pregunta": "Kant extrae esta categoría de la forma del juicio categórico:",
+    "opciones": [
+      "Causalidad",
+      "Acción reciproca",
+      "Juicio categórico",
+      "Substancia"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 887,
+    "tema": "Filosofía",
+    "pregunta": "Kant extrae esta categoría de la forma del juicio hipotético:",
+    "opciones": [
+      "Causalidad",
+      "Substancia",
+      "Acción reciproca",
+      "Juicio categórico"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 888,
+    "tema": "Filosofía",
+    "pregunta": "Kant extrae esta categoría de la forma del juicio disyuntivo:",
+    "opciones": [
+      "Substancia",
+      "Acción reciproca",
+      "Causalidad",
+      "Juicio categórico"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 889,
+    "tema": "Filosofía",
+    "pregunta": "Número total de categorías extraídas por Kant de los juicios de la lógica formal:",
+    "opciones": [
+      "Juicio categórico",
+      "Juicio disyuntivo",
+      "12",
+      "Juicio hipotético"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 890,
+    "tema": "Filosofía",
+    "pregunta": "Disciplina que tiene la pretensión de conocer las cosas en sí mismas, de conocer el ser en sí, de llegar por medio de razonamientos puramente apriorísticos a la captación de cosas en sí mismas:",
+    "opciones": [
+      "Metafísica",
+      "Fenómenos",
+      "Unidades del mundo inteligible",
+      "Fenómeno psíquico"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 891,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué nombre da Kant a las unidades de alma, universo y Dios?",
+    "opciones": [
+      "4",
+      "Razón práctica",
+      "Ideas",
+      "Psicología racional"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 892,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué significado tiene la palabra “idea” en Platón?",
+    "opciones": [
+      "Fenómeno psíquico",
+      "Unidades del mundo inteligible",
+      "Metafísica",
+      "A la persona humana"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 893,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué significado tiene la palabra “idea” en ingleses como Locke?",
+    "opciones": [
+      "Unidades del mundo inteligible",
+      "Metafísica",
+      "Psicología racional",
+      "Fenómeno psíquico"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 894,
+    "tema": "Filosofía",
+    "pregunta": "Parte de la metafísica encaminada a mostrar que el alma es simple y por consiguiente inmortal:",
+    "opciones": [
+      "Psicología racional",
+      "Una disciplina imposible",
+      "Ideas",
+      "Juicio hipotético"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 895,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuántas antinomias igualmente probatorias acerca del universo descubre Kant?",
+    "opciones": [
+      "Ideas",
+      "Una disciplina imposible",
+      "4",
+      "Una tesis y una antítesis"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 896,
+    "tema": "Filosofía",
+    "pregunta": "Para Kant una antinomia se compone de:",
+    "opciones": [
+      "Una disciplina imposible",
+      "Substancia",
+      "Acción reciproca",
+      "Una tesis y una antítesis"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 897,
+    "tema": "Filosofía",
+    "pregunta": "Según Kant las tesis son válidas en el mundo de los fenómenos, mientras que las antítesis son válidas en el mundo de los:",
+    "opciones": [
+      "Santo",
+      "Noumenos",
+      "Una disciplina imposible",
+      "Una tesis y una antítesis"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 898,
+    "tema": "Filosofía",
+    "pregunta": "Para Kant la metafísica es:",
+    "opciones": [
+      "Una disciplina imposible",
+      "Psicología racional",
+      "Una tesis y una antítesis",
+      "Substancia"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 899,
+    "tema": "Filosofía",
+    "pregunta": "Denominación que da Aristóteles a la conciencia moral y sus principios:",
+    "opciones": [
+      "Santo",
+      "Ideas",
+      "Porque el hombre verifica actos",
+      "Razón práctica"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 900,
+    "tema": "Filosofía",
+    "pregunta": "¿A quién pueden predicarse los calificativos morales?",
+    "opciones": [
+      "Porque el hombre verifica actos",
+      "Unidades del mundo inteligible",
+      "A la persona humana",
+      "La existencia de Dios"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 901,
+    "tema": "Filosofía",
+    "pregunta": "¿Por qué es el hombre el único ser, del cual puede, en rigor, predicarse la b ondad o maldad moral?",
+    "opciones": [
+      "Santo",
+      "Porque el hombre verifica actos",
+      "A la persona humana",
+      "Razón práctica"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 902,
+    "tema": "Filosofía",
+    "pregunta": "Filosofo que advierte que todo acto voluntario se presenta a la razón, a la reflexión, en la forma de un imperativo:",
+    "opciones": [
+      "s –",
+      "A la ley",
+      "Imperativo hipotético",
+      "Kant"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 903,
+    "tema": "Filosofía",
+    "pregunta": "Esta clase de imperativo es la que consiste en sujetar el mandamiento, el imperativo mismo, a una condición:",
+    "opciones": [
+      "Imperativo categórico",
+      "Kant",
+      "A la ley",
+      "Imperativo hipotético"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 904,
+    "tema": "Filosofía",
+    "pregunta": "En esta clase de imperativo el mandamiento, el mandato, no está puesto bajo condición ninguna:",
+    "opciones": [
+      "Imperativo hipotético",
+      "Kant",
+      "Imperativo categórico",
+      "Razón práctica"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 905,
+    "tema": "Filosofía",
+    "pregunta": "La legalidad de un acto voluntario consiste en que la acción efectuada en él sea conforme:",
+    "opciones": [
+      "Fichte",
+      "A la ley",
+      "Kant",
+      "Imperativo hipotético"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 906,
+    "tema": "Filosofía",
+    "pregunta": "¿Qué filosofo formuló el siguiente imperativo categórico: obra de manera que puedas querer que el motivo que te ha llevado a obrar sea una ley universal?",
+    "opciones": [
+      "Imperativo hipotético",
+      "Heterónoma",
+      "Kant",
+      "A la ley"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 907,
+    "tema": "Filosofía",
+    "pregunta": "La voluntad es autónoma cuando ella se da a sí misma su propia ley. Sin embargo, cuando recibe pasivamente la ley de algo o de alguien que no es ella misma, se denomina:",
+    "opciones": [
+      "Heterónoma",
+      "Kant",
+      "Santo",
+      "Razón práctica"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 908,
+    "tema": "Filosofía",
+    "pregunta": "Denominación que asigna Kant al hombre que ha dominado por completo, aquí, en la experiencia, toda determinación moral oriunda de los fenómenos concretos, físicos o psicológicos, para sujetarlos a la ley moral:",
+    "opciones": [
+      "Razón práctica",
+      "Santo",
+      "Porque el hombre verifica actos",
+      "Fichte"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 909,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuál es el tercer postulado de la razón práctica?",
+    "opciones": [
+      "Una disciplina imposible",
+      "la unidad viviente, espiritual, dentro de la cual están como en germen todas las diversidades que conocemos en el mundo",
+      "Heterónoma",
+      "La existencia de Dios"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 910,
+    "tema": "Filosofía",
+    "pregunta": "Para qué corriente filosófica, lo que existe no son las cosas, sino el pensamiento:",
+    "opciones": [
+      "Kant",
+      "Brentano",
+      "Santo",
+      "Idealismo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 911,
+    "tema": "Filosofía",
+    "pregunta": "Autor que muestra que el sujeto, la substancia, es también producto del pensamiento:",
+    "opciones": [
+      "Kant",
+      "Idealismo",
+      "Fichte",
+      "Otto Liebmann"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 912,
+    "tema": "Filosofía",
+    "pregunta": "Filósofos que a contrario de Kant parten de la existencia de lo “absoluto” en sus filosófias:",
+    "opciones": [
+      "la unidad viviente, espiritual, dentro de la cual están como en germen todas las diversidades que conocemos en el mundo",
+      "Fichte, Schelling y Hegel",
+      "Otto Liebmann",
+      "Santo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 913,
+    "tema": "Filosofía",
+    "pregunta": "Para este autor todo conocimiento y toda ciencia tiene que estar sometida al servicio de la acción moral:",
+    "opciones": [
+      "Reducción a naturaleza los objetos que aparecen irreductibles a la naturaleza",
+      "Santo",
+      "Fichte",
+      "A la ley"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 914,
+    "tema": "Filosofía",
+    "pregunta": "Lo absoluto para Schelling es:",
+    "opciones": [
+      "Fichte, Schelling y Hegel",
+      "la unidad viviente, espiritual, dentro de la cual están como en germen todas las diversidades que conocemos en el mundo",
+      "Brentano",
+      "La existencia de Dios"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 915,
+    "tema": "Filosofía",
+    "pregunta": "Denominado por Manuel García Morente como espíritu, consiste en la hostilidad a toda deducción, que no esté basada en datos inmediatos de la experiencia:",
+    "opciones": [
+      "Consiste en que estamos en el mundo; estar en el mundo eso es vivir",
+      "La estructura óntica del ser que es y la estructura óntica del valor",
+      "Valores",
+      "Positivismo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 916,
+    "tema": "Filosofía",
+    "pregunta": "El naturalismo como rasgo esencial del positivismo tiene dos sentidos. El primero, como necesidad de extender los métodos de las ciencias naturales a toda la ciencia. El segundo como:",
+    "opciones": [
+      "Reducción a naturaleza los objetos que aparecen irreductibles a la naturaleza",
+      "Fichte",
+      "Análisis dialectico y colocarnos ante la realidad",
+      "Teoría del ente"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 917,
+    "tema": "Filosofía",
+    "pregunta": "Autor del libro “Kant y lo epígonos” que culpaba el decaimiento y miseria de la filosofía a los filósofos románticos alemanes:",
+    "opciones": [
+      "Fichte, Schelling y Hegel",
+      "Kant",
+      "Otto Liebmann",
+      "Fichte"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 918,
+    "tema": "Filosofía",
+    "pregunta": "Profesor que enseñaba a sus discípulos que el auténtico filosofar no consiste en las grandes generalidades de Fichte, Schelling y Hegel, sino que consiste en la minuciosa y rigurosa dilucidación de los puntos, de los acentos, de los conceptos filosóficos:",
+    "opciones": [
+      "la unidad viviente, espiritual, dentro de la cual están como en germen todas las diversidades que conocemos en el mundo",
+      "Brentano",
+      "Consiste en que estamos en el mundo; estar en el mundo eso es vivir",
+      "La estructura óntica del ser que es y la estructura óntica del valor"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 919,
+    "tema": "Filosofía",
+    "pregunta": "Según Manuel García Morente, en rigor, qué significado tiene la palabra ontología:",
+    "opciones": [
+      "La estructura óntica del ser que es y la estructura óntica del valor",
+      "Consiste en que estamos en el mundo; estar en el mundo eso es vivir",
+      "Teoría del ente",
+      "Análisis dialectico y colocarnos ante la realidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 920,
+    "tema": "Filosofía",
+    "pregunta": "Métodos que sigue Manuel García Morente para llegar al corazón mismo de la ontología:",
+    "opciones": [
+      "Teoría del ente",
+      "Consiste en que estamos en el mundo; estar en el mundo eso es vivir",
+      "La estructura óntica del ser que es y la estructura óntica del valor",
+      "Análisis dialectico y colocarnos ante la realidad"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 921,
+    "tema": "Filosofía",
+    "pregunta": "Para Manuel García Morente ¿en qué consiste nuestro vivir?",
+    "opciones": [
+      "Consiste en que estamos en el mundo; estar en el mundo eso es vivir",
+      "La estructura óntica del ser que es y la estructura óntica del valor",
+      "Valores",
+      "Teoría del ente"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 922,
+    "tema": "Filosofía",
+    "pregunta": "Para Manuel García Morente los objetos como la” hermosura” corresponde al grupo de:",
+    "opciones": [
+      "Consiste en que estamos en el mundo; estar en el mundo eso es vivir",
+      "Valores",
+      "La estructura óntica del ser que es y la estructura óntica del valor",
+      "Teoría del ente"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 923,
+    "tema": "Filosofía",
+    "pregunta": "Para Manuel García Mor ente en el ámbito de la vida hay estos tres conjuntos de objetos:",
+    "opciones": [
+      "Valores",
+      "Consiste en que estamos en el mundo; estar en el mundo eso es vivir",
+      "La estructura óntica del ser que es y la estructura óntica del valor",
+      "Cosas, objetos ideales y valores"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 924,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuáles son las dos grandes provincias ontológicas según Manuel García Morente?",
+    "opciones": [
+      "Teoría del ente",
+      "Consiste en que estamos en el mundo; estar en el mundo eso es vivir",
+      "La estructura óntica del ser que es y la estructura óntica del valor",
+      "Valores"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 925,
+    "tema": "Filosofía",
+    "pregunta": "Para este filosofo las categorías eran los estratos elementales y primarios de todo ser:",
+    "opciones": [
+      "Aristóteles",
+      "El ser, la realidad, la temporalidad y la causalidad",
+      "Fichte",
+      "Intelectuales"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 926,
+    "tema": "Filosofía",
+    "pregunta": "Término que refiere aquellas propiedades características, estructuras y formas que son de los objetos en cuanto objetos:",
+    "opciones": [
+      "Valores",
+      "Cosas, objetos ideales y valores",
+      "Óntico",
+      "Mundo amanual"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 927,
+    "tema": "Filosofía",
+    "pregunta": "Término que refiere aquellas formas, estructuras o modalidades, que convienen a los objetos, en cuanto que han sido incorporados a una teoría científica o filosófica:",
+    "opciones": [
+      "Óntico",
+      "s –",
+      "Mundo amanual",
+      "Mundo científico"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 928,
+    "tema": "Filosofía",
+    "pregunta": "Denominación de aquellas categorías que no responden a la estructura misma del objeto que se trata de estudiar, sino que responden, más bien, a la transformación que ese objeto sufre tan pronto como entra en la labor específica del conocimiento científico:",
+    "opciones": [
+      "El ser, la realidad, la temporalidad y la causalidad",
+      "Aristóteles",
+      "Óntico",
+      "Intelectuales"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 929,
+    "tema": "Filosofía",
+    "pregunta": "¿Cuáles son las cuatro categorías ónticas fundamentales en las cuales se expresa la estructura de la región de la objetividad?",
+    "opciones": [
+      "El ser, la realidad, la temporalidad y la causalidad",
+      "Intelectuales",
+      "Aristóteles",
+      "Análisis dialectico y colocarnos ante la realidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 930,
+    "tema": "Filosofía",
+    "pregunta": "El filósofo, en cuanto que no es filósofo, en las horas del día que no es filosofo (que son las más), el matemático en cuanto que no es matemático, sino hombre en la inmersión de su vida, viven en un:",
+    "opciones": [
+      "Mundo amanual",
+      "Óntico",
+      "Cosas, objetos ideales y valores",
+      "Aristóteles"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 931,
+    "tema": "Filosofía",
+    "pregunta": "El mundo de preguntas y de problemas es denominado por Manuela García Morente como:",
+    "opciones": [
+      "Consiste en que estamos en el mundo; estar en el mundo eso es vivir",
+      "La estructura óntica del ser que es y la estructura óntica del valor",
+      "Valores",
+      "Mundo teorético"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 932,
+    "tema": "Filosofía",
+    "pregunta": "Denominación del mundo de esencias descubiertas después de que las cosas se han convertido en problemas y que el problema ha sido resuelto:",
+    "opciones": [
+      "Mundo teorético",
+      "Intelectuales",
+      "Mundo científico",
+      "Mundo amanual"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 933,
+    "tema": "Filosofía",
+    "pregunta": "Característica de los objetos ideales, que no están en el tiempo, ni comienzan a ser en un momento, ni dejan de ser en otro momento, sino que son fuera del tiempo:",
+    "opciones": [
+      "Óntico",
+      "Intemporalidad",
+      "Valores",
+      "Cosas, objetos ideales y valores"
+    ],
+    "correcta": 1
+  }
+]

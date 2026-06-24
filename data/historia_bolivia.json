@@ -1,0 +1,3998 @@
+[
+  {
+    "id": 1,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el período prehispánico, el desarrollo social pasó desde recolectores y cazadores hasta asentamientos estables vinculados con la agricultura. ¿Qué práctica permitió esperar en un mismo sitio el producto de la cosecha?",
+    "opciones": [
+      "La caza",
+      "La recolección",
+      "El pastoreo",
+      "La práctica de la agricultura"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 2,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la llegada del hombre al continente americano se mencionan dos rutas migratorias principales. ¿Qué paso permitió el ingreso desde Asia hacia Alaska durante una de esas migraciones?",
+    "opciones": [
+      "El estrecho de Magallanes",
+      "El canal de Panamá",
+      "El estrecho de Bering",
+      "El cabo de Hornos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 3,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La antigüedad del hombre americano se relaciona con pueblos recolectores y cazadores que siguieron una trayectoria desde Alaska hacia la Patagonia. ¿En cuánto se estima esa antigüedad en América?",
+    "opciones": [
+      "Más de 40.000 años",
+      "El estrecho de Bering",
+      "La práctica de la agricultura",
+      "Cueva Sandía"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 4,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Hacia los 20.000 años de antigüedad aparecen industrias líticas con puntas de proyectil desbastadas por percusión. ¿Qué industria se mencio na entre las más antiguas de Norteamérica?",
+    "opciones": [
+      "Más de 40.000 años",
+      "Cueva Sandía",
+      "Cultura Viscachani",
+      "Wankarani, Chiripa y posteriormente Pucara"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 5,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la zona andina se encuentran restos de un tipo datable hacia el año 10.000 a.C. ¿Qué cultura se señala como el exponente más importante del período lítico en Bolivia?",
+    "opciones": [
+      "La altiplanicie",
+      "Carbono 14",
+      "Wankarani, Chiripa y posteriormente Pucara",
+      "Cultura Viscachani"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 6,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La región altiplánica situada entre la Cordillera Occidental y la Cordillera Oriental tuvo una cuenca lacustre mayor que la actual. ¿Qué altura alcanzó el nivel del lago, según el informe Ostrom?",
+    "opciones": [
+      "Cinco metros más alto",
+      "Lago Ballivián",
+      "La altiplanicie",
+      "Titicaca-Desaguadero-Poopó"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 7,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante la evolución de la cuenca lacustre altiplánica, un gran lago cubría zonas ocupadas por salares y lagos actuales. ¿Qué nombre recibía ese antiguo lago mencionado en el texto?",
+    "opciones": [
+      "Cinco metros más alto",
+      "Wankarani",
+      "Wankarani, Chiripa y posteriormente Pucara",
+      "Lago Ballivián"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 8,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Con la disminuci ón de lluvias en el altiplano comenzó una gran sequía que redujo lagos y salinizó terrenos. ¿Qué culturas aparecen hacia el año 2.500 a.C.?",
+    "opciones": [
+      "Aldeas",
+      "Cultura Viscachani",
+      "Wankarani, Chiripa y posteriormente Pucara",
+      "Centros ceremoniales"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 9,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El hombre que llegó a los Andes durante el pleistoceno convivió con grandes animales y tuvo una economía vinculada a la caza. ¿Qué megaterio se menciona como especie de perezoso gigante?",
+    "opciones": [
+      "El estrecho de Bering",
+      "Mylodon",
+      "Más de 40.000 años",
+      "Precerámico"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 10,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Desde tiempos precerámicos se dejaron testimonios grabados o pintados en cuevas y aleros rocosos. ¿Qué tipo de testimonios menciona el texto para esos espacios de refugio?",
+    "opciones": [
+      "Aldeas",
+      "Cultura Viscachani",
+      "Arte rupestre",
+      "Lago Ballivián"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 11,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La sociedad de investigación de arte rupestre distingue períodos en Bolivia. ¿Qué período presenta pinturas probablemente producidas por cazadores tempranos, con escenas de animales y figuras rojas?",
+    "opciones": [
+      "La cerámica",
+      "Precerámico",
+      "La pintura rupestre",
+      "La escultura"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 12,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El período denominado arcaico se caracteriza por el descubrimiento de la agricultura y el abandono de cuevas por muchos grupos humanos. ¿Qué formaron en l os años 2.500 a.C. y 1.500 a.C.?",
+    "opciones": [
+      "La caza",
+      "La recolección",
+      "El pastoreo",
+      "Aldeas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 13,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El período formativo presenta el germen de las altas culturas andinas y transforma progresivamente las aldeas. ¿Qué grandes centros aparecen al final de este período?",
+    "opciones": [
+      "Centros ceremoniales",
+      "Período formativo",
+      "Titicaca-Desaguadero-Poopó",
+      "Precerámico"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 14,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Para estudiar el período prehispánico en Bolivia se consideran dos zonas diferenciadas por su desarrollo cultural. ¿Qué zona estuvo ubicada entre los brazos de la cordillera?",
+    "opciones": [
+      "La arqueología",
+      "La altiplanicie",
+      "Cultura Viscachani",
+      "Cinco metros más alto"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 15,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El estudio del período prehispánico se hace en gran parte mediante excavaciones en sitios donde hubo asentamientos humanos. ¿Qué disciplina permite establecer secuencias cronológicas aproximadas?",
+    "opciones": [
+      "La altiplanicie",
+      "Aldeas",
+      "La arqueología",
+      "Centros ceremoniales"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 16,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las culturas más estudiadas pueden ubicarse en una cronología absoluta gracias a la identificación de restos orgánicos. ¿Qué método permite determinar con exactitud la antigüedad de esos restos?",
+    "opciones": [
+      "Carbono 14",
+      "Cultura Viscachani",
+      "La arqueología",
+      "Cueva Sandía"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 17,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el segundo milenio antes de Cristo, después de la revolución agraria y la aparición de la cerámica, aparecen las primeras aldeas. ¿A qué período corresponden esas aldeas?",
+    "opciones": [
+      "Centros ceremoniales",
+      "Circular",
+      "La Paz y Oruro",
+      "Período formativo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 18,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El área de las culturas andinas abarca costa, sierra y altiplano, con un sitio especial del nudo de Vilcanota. ¿Qué complejo lacustre se sitúa en esa región?",
+    "opciones": [
+      "Titicaca-Desaguadero-Poopó",
+      "Centros ceremoniales",
+      "Wankarani, Chiripa y posteriormente Pucara",
+      "Cinco metros más alto"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 19,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el Formativo de la zona sur se desarrollan culturas alrededor del lago Titicaca. ¿Qué cultura se desarrolló en Oruro y Bolivia, mientras Chiripa se ubicó al sur del lago?",
+    "opciones": [
+      "La Paz",
+      "Cobre",
+      "Wankarani",
+      "Señoríos collas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 20,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El centro de las grandes culturas regionales culmina con la expansión de Tiahuanaco, que conquista a los moches en el norte. ¿Qué cultura se superpone a Nazca?",
+    "opciones": [
+      "Período formativo",
+      "Sacerdotes y guerreros",
+      "La Paz",
+      "Tiahuanaco"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 21,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el siglo XIII, el Imperio Huari-Tiahuanaco sucumbe y algunas culturas renacen bajo nuevas formas. ¿Qué señoríos nacen en torno al lago Titicaca?",
+    "opciones": [
+      "Wankarani",
+      "Señoríos collas",
+      "La Paz",
+      "Cobre"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 22,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La cultura Wankarani creció sobre asentamientos aldeanos y conoció la cerámica y la escultura en piedra. ¿En qué actuales departamentos se desarrolló principalmente esta cultura?",
+    "opciones": [
+      "La Paz y Oruro",
+      "La Paz",
+      "Papa",
+      "Período formativo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 23,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La economía de Wankarani se basó en el pastoreo de camélidos y en una agricultura propia del altiplano. ¿Qué producto agrícola se menciona expresamente para esta cultura?",
+    "opciones": [
+      "La caza",
+      "La recolección",
+      "El pastoreo",
+      "Papa"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 24,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las aldeas Wankarani tenían casas situadas sobre montículos, próximas entre sí y con techos de paja. ¿Qué forma tenían esas viviendas descritas en el texto?",
+    "opciones": [
+      "Período formativo",
+      "Circular",
+      "Papa",
+      "La Paz y Oruro"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 25,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La cultura Chiripa se estableció junto al lago Titicaca y tuvo un montículo artificial de grandes dimensiones. ¿En qué departamento se ubicó esta cultura?",
+    "opciones": [
+      "Taraco",
+      "Wankarani",
+      "La Paz",
+      "Período formativo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 26,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La cultura Chiripa destaca por un montículo artificial de superficie considerable, construido sobre el cual se hallaron habitaciones. ¿En qué península se localizó este asentamiento?",
+    "opciones": [
+      "La Paz",
+      "Período formativo",
+      "Taraco",
+      "Wankarani"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 27,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las esculturas de Chiripa representan una tradición religiosa de pueblos vinculados a las orillas del lago Titicaca. ¿Qué elemento metálico fundían los chiripas mediante sopladores de cerámica?",
+    "opciones": [
+      "Wankarani",
+      "La Paz",
+      "Señoríos collas",
+      "Cobre"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 28,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La cultura Tiahuanaco fue dividida en tres grandes épocas para comprender mejor su desarrollo histórico y social. ¿Qué período se relaciona con la cultura Chiripa?",
+    "opciones": [
+      "La Paz",
+      "Período formativo",
+      "Sacerdotes y guerreros",
+      "Taraco"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 29,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tiahuanaco creció como gran centro religioso y formó una población estratificada. ¿Qué clase social aparece como dominante en el período urbano descrito para esta cultura?",
+    "opciones": [
+      "Sacerdotes y guerreros",
+      "Período formativo",
+      "La Paz y Oruro",
+      "Dos kilómetros"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 30,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La producción agrícola de Tiahuanaco se basó en sistemas que retenían el agua de lluvia y permitían asegurar cultivos. ¿Cómo reciben el nombre aimara esos camellones?",
+    "opciones": [
+      "La caza",
+      "La recolección",
+      "El pastoreo",
+      "Suka-kollus"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 31,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La población de Tiahuanaco fue calculada con una cifra muy alta para los cánones de la época. ¿Cuántos habitantes se estiman para la ciudad de Tiahuanaco?",
+    "opciones": [
+      "Sacerdotes y guerreros",
+      "Dos kilómetros",
+      "Veinte mil habitantes",
+      "Arriba y urin"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 32,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el período formativo de Tiahuanaco, la economía se bas aba en el cultivo de un producto conservable como chuño. ¿Qué cultivo se menciona como base económica?",
+    "opciones": [
+      "Papa",
+      "La caza",
+      "La recolección",
+      "El pastoreo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 33,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La ciudad sagrada de Tiahuanaco muestra una estructura doble entre Akapana y Puma Punku. ¿Qué división de la sociedad andina refleja esa composición urbana?",
+    "opciones": [
+      "Dos kilómetros",
+      "Arriba y urin",
+      "Veinte mil habitantes",
+      "Más de cuatrocientas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 34,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El conjunto de Puma-punku se ubicaba a cierta distancia del centro ceremonial descrito para Tiahuanaco. ¿A cuántos kilómetros se encontraba este conjunto ceremonial?",
+    "opciones": [
+      "Dos kilómetros",
+      "Arriba y urin",
+      "Sacerdotes y guerreros",
+      "Veinte mil habitantes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 35,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el período expansivo, Tiahuanaco extendió su poder sobre altiplano, sierra y costa. ¿Qué factor técnico permitió una gran superioridad militar frente a otros pueblos?",
+    "opciones": [
+      "Sacerdotes y guerreros",
+      "Urcusuyo y Umasuyo",
+      "Veinte mil habitantes",
+      "Dominio del bronce"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 36,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La cerámica de Tiahuanaco presenta vasos e incensarios con decoración geométrica y figuras estilizadas. ¿Qué colores se mencionan como característicos de esos recipientes?",
+    "opciones": [
+      "Veinte mil habitantes",
+      "Rojo, ocre, negro y blanco",
+      "Suka-kollus",
+      "Cobre"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 37,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las excavaciones de 2004 en la isla de Pariti revelaron piezas ceremoniales vinculadas a Tiahuanaco. ¿Qué cantidad aproximada de cerámicas fue encontrada en esa isla?",
+    "opciones": [
+      "Veinte mil habitantes",
+      "Arriba y urin",
+      "Más de cuatrocientas",
+      "Umasuyo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 38,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la religión panandina, Viracocha aparece como creador y vinculado al mito de Tunupa. ¿Qué nombre recibe el otro dios panandino considerado el ánima del mundo?",
+    "opciones": [
+      "Illapa",
+      "Pachacámac",
+      "Sacerdotes y guerreros",
+      "La familia Guarachi"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 39,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El colapso de Tiahuanaco se explica por cambios climáticos que afectaron lluvias y cultivos. ¿Entre qué años se produjo la larga e intensa sequía mencionada?",
+    "opciones": [
+      "La caza",
+      "La recolección",
+      "1250 y 1310 d.C",
+      "El pastoreo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 40,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tras la desaparición de Tiahuanaco, el altiplano quedó fragmentado en etnias distribuidas en mitades complementarias. ¿Cómo se llamaban esas dos mitades antagónicas?",
+    "opciones": [
+      "Urcusuyo y Umasuyo",
+      "Veinte mil habitantes",
+      "Dominio del bronce",
+      "Yotala y Quilaquila"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 41,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El modelo de control de recursos entre pueblos aimaras permitía acceder a diversos pisos ecológicos. ¿Qué principio regulaba esa relación económica y de subsistencia?",
+    "opciones": [
+      "Papa",
+      "Umasuyo",
+      "Charcas, caracaras, chichas y chuis",
+      "Verticalidad"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 42,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Hacia el año 1438, los collas conservaban jurisdicción sobre un extenso territorio. ¿Quién fue el último rey colla que gobernaba sobre un extenso imperio?",
+    "opciones": [
+      "Chuchi Capac",
+      "Chullpas",
+      "Charcas, caracaras, chichas y chuis",
+      "Adobe"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 43,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Entre los señoríos orientales del Collasuyo, los callahuayas tuvieron prestigio por su conocimiento médico y por llevar tributo al Cuzco. ¿Qué producto llevaban para decorar el templo del Sol?",
+    "opciones": [
+      "Papa",
+      "Urcusuyo y Umasuyo",
+      "La familia Guarachi",
+      "Planchas de oro"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 44,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El Memorial de 1582 afirma que los charcas recibieron de la Audiencia de Charcas el nombre por fidelidad al Rey. ¿Qué pueblos integraban ese gran reino?",
+    "opciones": [
+      "Chullpas",
+      "Charcas, caracaras, chichas y chuis",
+      "Umasuyo",
+      "Dominio del bronce"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 45,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los carangas ocuparon un territorio entre el lago Poopó y la Cordillera Occidental, compartiendo hábitat con pueblos vecinos. ¿Con qué material principal se expresa su cultura material?",
+    "opciones": [
+      "La familia Guarachi",
+      "Totora",
+      "Adobe",
+      "Umasuyo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 46,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La orilla oriental del lago Poopó estuvo ocupada por soras y quillacas. ¿Qué familia asentada en Machaca aparece como origen de los quillacas?",
+    "opciones": [
+      "La familia Guarachi",
+      "Adobe",
+      "Provincia Muñecas",
+      "Puquina"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 47,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los yamparas conformaron un señorío du al en el actual departamento de Chuquisaca, con dos capitales principales. ¿Cuáles fueron esas dos capitales mencionadas en el texto?",
+    "opciones": [
+      "Chullpas",
+      "Provincia Muñecas",
+      "Yotala y Quilaquila",
+      "Urcusuyo y Umasuyo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 48,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La cultura aimara se caracteriza por necrópolis con tumbas en forma de torres. ¿Cómo se denominan esas tumbas mencionadas para los pueblos collas y charcas?",
+    "opciones": [
+      "Charcas, caracaras, chichas y chuis",
+      "Yotala y Quilaquila",
+      "Grandes terraplenes",
+      "Chullpas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 49,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los pueblos distribuidos alrededor del lago respondían a divisiones vinculadas con género y región. ¿Qué nombre genérico adoptaban los pueblos o masuyos en contraposición al Urcosuyo?",
+    "opciones": [
+      "Adobe",
+      "Umasuyo",
+      "Charcas, caracaras, chichas y chuis",
+      "Chullpas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 50,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Entre los dioses andinos, una divinidad identificada con el rayo fue asociada después al apóstol Santiago. ¿Qué nombre indígena recibía ese dios del rayo?",
+    "opciones": [
+      "Pachacámac",
+      "Charcas, caracaras, chichas y chuis",
+      "El fuego y los movimientos geotectónicos",
+      "Illapa"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 51,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El mito de Tunupa relata a un enviado del dios creador que predicaba el culto y castigaba a los pueblos. ¿Con qué fenómeno fue relacionado principalmente Tunupa?",
+    "opciones": [
+      "Los carangas",
+      "El fuego y los movimientos geotectónicos",
+      "Umasuyo",
+      "Illapa"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 52,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La leyenda de Sa baya recoge un antiguo mito indígena cristianizado, donde una virgen sustituye al volcán como nueva fundadora. ¿Qué territorio abarca principalmente el mito de Sabaya?",
+    "opciones": [
+      "Los carangas",
+      "El fuego y los movimientos geotectónicos",
+      "Guamán Poma de Ayala",
+      "Totora"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 53,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los urus son descritos como un pueblo muy antiguo, cuya cultura se basaba en la pesca y ocupaba la cuenca lacustre altiplánica. ¿De qué material eran sus viviendas?",
+    "opciones": [
+      "Adobe",
+      "Cultura Mollo",
+      "Totora",
+      "Ava"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 54,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los chipayas viven en el delta formado por la desembocadura del río Lauca sobre el lago Coipasa. ¿Qué lengua conservan junto con sus costumbres ancestrales?",
+    "opciones": [
+      "De los chullpas",
+      "Piso Firme",
+      "La familia Guarachi",
+      "Puquina"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 55,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los chipayas consideran a sus ancestros constructores antiguos como parte de su herencia cultural. ¿De quiénes se consideran descendientes, abandonando hábitos de pueblo pescador?",
+    "opciones": [
+      "Los baures",
+      "Puquina",
+      "De los chullpas",
+      "Ava"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 56,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La cultura Mollo desarrolló la ciudad de Iscanhuaya en los valles de la cordillera oriental. ¿En qué actual provincia se ubica este conjunto urbano destacado?",
+    "opciones": [
+      "Provincia Muñecas",
+      "Cultura Mollo",
+      "Grandes terraplenes",
+      "Adobe"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 57,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Iscanhuaya fue construida sobre un terraplén sujeto por muros de contención y con viviendas alrededor de patios. ¿Qué cultura desarrolló esta ciudad arqueológica?",
+    "opciones": [
+      "Provincia Muñecas",
+      "Cultura Mollo",
+      "Totora",
+      "Umasuyo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 58,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la provincia de Moxos se distinguen etapas arqueológicas y grandes obras de elevación de terreno. ¿Qué rasgo caracteriza a la cultura beniana prehispánica?",
+    "opciones": [
+      "Provincia Muñecas",
+      "Grandes terraplenes",
+      "Chullpas",
+      "Piso Firme"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 59,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la zona del Beni se señala la presencia de distintos pueblos, algunos descendientes de grupos antiguos. ¿Qué pueblo aparece con mayor grado de culturización jesuítica?",
+    "opciones": [
+      "De los chullpas",
+      "Umasuyo",
+      "Ava",
+      "Los baures"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 60,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El departamento de Santa Cruz presenta ruinas arqueológicas anteriores a la invasión chiriguana. ¿Qué sitio de mayores hallazgos se ubica en una antigua gomera sobre el río Pacaguara?",
+    "opciones": [
+      "Piso Firme",
+      "Grandes terraplenes",
+      "Provincia Muñecas",
+      "Samaipata"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 61,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los chiriguanos pertenecían al grupo tupí-guaraní y se establecieron en varias zonas de Bolivia. ¿Qué palabra significaba “hombres” para este pueblo guerrero?",
+    "opciones": [
+      "Capac Yupanqui",
+      "Totora",
+      "Ava",
+      "Los baures"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 62,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el go bierno de Huayna Capac, los cuzqueños avanzaron hacia tierras del oriente siguiendo una ruta iniciada antes. ¿Qué sitio fue construido como fortaleza y centro ceremonial?",
+    "opciones": [
+      "Samaipata",
+      "Piso Firme",
+      "Tupac Inca Yupanqui",
+      "Sinchi Roca"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 63,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La historia del imperio incaico fue escrita por cro nistas a partir de relatos orales conservados por quipus y descendientes incas. ¿Qué cronista escribió una historia basada en información de 1547 y 1550?",
+    "opciones": [
+      "Guamán Poma de Ayala",
+      "Los baures",
+      "Cieza de León",
+      "De los chullpas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 64,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Entre las crónicas indígenas, una obra fue considerada important e por su relación con los incas y la conquista. ¿Qué historiador indígena escribió “Primera Nueva Crónica y Buen Gobierno”?",
+    "opciones": [
+      "Cieza de León",
+      "Guamán Poma de Ayala",
+      "Tomebamba",
+      "Los carangas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 65,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La expansión inca comenzó hacia el siglo XII y tuvo varias etapas, desde incas legendarios hasta reyes históricos. ¿Qué gobernante inició una expansión efectiva con cronología y hechos específicos?",
+    "opciones": [
+      "Capac Yupanqui",
+      "Sinchi Roca",
+      "Tupac Inca Yupanqui",
+      "Pachacuti"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 66,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La mayoría de los cronistas sostiene que los incas aparecieron en una población cercana al Cuzco llamada Pacaritambo. ¿Cuántos hermanos y hermanas salieron de ese lugar?",
+    "opciones": [
+      "Llanos del Beni",
+      "Tomebamba",
+      "Cuatro hermanos y cuatro hermanas",
+      "En la isla del Titicaca"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 67,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La leyenda de Manco Capac y Mama Ocllo relata su partida desde una isla sagrada con una vara de oro. ¿Dónde habrían nacido ambos personajes?",
+    "opciones": [
+      "Sinchi Roca",
+      "Llanos del Beni",
+      "En la isla del Titicaca",
+      "Isla del Sol"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 68,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Manco Capac fue considerado el primer gobernante que codificó el imperio y estableció la religión oficial. ¿Qué segundo inca nació en Tampu Ocllo y recibió territorios del Cuzco?",
+    "opciones": [
+      "Isla del Sol",
+      "Sinchi Roca",
+      "Huáscar",
+      "Capac Yupanqui"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 69,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El quinto Inca fue de carácter guerrero, salió del Cuzco hacia pueblos vecinos y sometió el Condesuyo. ¿Qué gobernante se identifica con esas características?",
+    "opciones": [
+      "Capac Yupanqui",
+      "Sinchi Roca",
+      "Pachacuti",
+      "Tupac Inca Yupanqui"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 70,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Pachacuti Inca Yupanqui consolidó el imperio y emprendió ref ormas en el orden administrativo y religioso. ¿Qué ciudad mejoró trazando nuevas calles y repartiendo solares?",
+    "opciones": [
+      "Cuzco",
+      "Huayna Capac",
+      "Tupac Inca Yupanqui",
+      "Huáscar"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 71,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Pachacuti conquistó el Collao tras enfrentarse con los collas y capturar a su máximo jefe. ¿Quién era el máximo jefe de los collas que entró en Hatun-colla?",
+    "opciones": [
+      "En la isla del Titicaca",
+      "Tupac Inca Yupanqui",
+      "Chuchi Capac",
+      "Huayna Capac"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 72,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Antes de regresar al Cuzco, Pachacuti visitó el Collao por la región de Omasuyos y pasó por Copacabana. ¿Dónde estuvo viviendo un tiempo?",
+    "opciones": [
+      "Chuchi Capac",
+      "En la isla del Titicaca",
+      "Tupac Inca Yupanqui",
+      "Huayna Capac"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 73,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tras la muerte de Pachacuti, su hijo organizó ejércitos hacia nuevas conquistas y enfrentó sublevaciones en el Collasuyo. ¿Qué inca lo sucedió hacia 1471?",
+    "opciones": [
+      "Huayna Capac",
+      "Cuzco",
+      "Capac Yupanqui",
+      "Tupac Inca Yupanqui"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 74,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tupac Inca Yupanqui emprendió conquistas hacia la nación de los cuzcos y organizó campañas en el Collao. ¿A quién heredó el imperio tras su muerte?",
+    "opciones": [
+      "Tupac Inca Yupanqui",
+      "Cuzco",
+      "Chuchi Capac",
+      "Huayna Capac"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 75,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Huayna Capac tomó medidas para organizar el territorio conquistado y contener el avance de los guaraníes. ¿Qué centro estableció como cabeza del territorio fuera de Cochabamba?",
+    "opciones": [
+      "Pocona",
+      "Huáscar",
+      "Chiriguanos",
+      "Manco Inca"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 76,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el gobierno de Huayna Capac, los incas llegaron al norte de Argentina y hasta Quito. ¿Qué ciudad fue enriquecida durante la campaña en la región del Chinchasuyo?",
+    "opciones": [
+      "Llanos del Beni",
+      "Chiriguanos",
+      "Tomebamba",
+      "Huáscar"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 77,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los incas avanzaron sobre los Andes orientales desde el valle de Camata y llegaron a una planicie amazónica. ¿A qué lugar alcanzaron las tropas imperiales de Huayna Capac?",
+    "opciones": [
+      "Tomebamba",
+      "Llanos del Beni",
+      "Huáscar",
+      "Chiriguanos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 78,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Hacia 1522, Huayna Capac fue advertido de la entrada de pueblos extraños en la región de Charcas. ¿Qué nombre recibieron esos guaraníes en la frontera del imperio incaico?",
+    "opciones": [
+      "Chiriguanos",
+      "Huáscar",
+      "Pocona",
+      "Tomebamba"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 79,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Después de contener a los chiriguanos, Huayna Capac murió y el imperio quedó dividido entre sus hijos. ¿Qué hijo dominaba el Cuzco y el sur del imperio?",
+    "opciones": [
+      "Chiriguanos",
+      "Pocona",
+      "Manco Inca",
+      "Huáscar"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 80,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Muerto Atahualpa, un hijo de Huayna Capac mantuvo Vilcabamba como centro de resistencia contra los conquistadores. ¿Qué pe rsonaje fue reconocido por los españoles como heredero del trono?",
+    "opciones": [
+      "Huáscar",
+      "Pocona",
+      "Manco Inca",
+      "Tomebamba"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 81,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El gobierno del Tahuantinsuyo tenía una forma dual reflejada en el Cuzco, dividido en dos mitades. ¿Qué territorios eran considerados hanan y hurin respectivamente?",
+    "opciones": [
+      "Huáscar",
+      "Chinchaysuyo y Collasuyo",
+      "Yaraví",
+      "Yllus propios"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 82,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las panacas eran linajes de los incas formados por descendientes reales. ¿Qué bienes poseían dentro de esas panacas los diferentes grupos familiares?",
+    "opciones": [
+      "Chinchaysuyo y Collasuyo",
+      "Maíz",
+      "Yllus propios",
+      "Tomebamba"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 83,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las clases sociales del incario estaban marcadamente separadas y en la cúspide se hallaban quienes tenían sangre real. ¿Cómo se denominaba a los incas nobles orejones?",
+    "opciones": [
+      "Inti Raymi",
+      "Incas de privilegio",
+      "Chuño",
+      "Por grandes lajas de piedra"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 84,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La economía inca tenía fuerte base agraria y dom inio del agua en los valles. ¿Qué cultivo se menciona como especialmente importante dentro de esa producción?",
+    "opciones": [
+      "La caza",
+      "La recolección",
+      "El pastoreo",
+      "Maíz"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 85,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En las tierras altas del incario se cultivaba la papa y se deshidrataba para almacenarla. ¿Qué producto resultaba después de lavarla y obtener una coloración blanca?",
+    "opciones": [
+      "Chuño",
+      "Inti Raymi",
+      "Incas de privilegio",
+      "Huáscar"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 86,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La religión inca era politeísta, aunque los dioses estaban supeditados a un dios creador y a una divinidad costeña. ¿Qué dios creador es mencionado en el texto?",
+    "opciones": [
+      "Viracocha",
+      "Aimara",
+      "Incas de privilegio",
+      "Cubilete"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 87,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Entre las divinidades incaicas subordinadas a Viracocha se encontraban astros con importancia religiosa. ¿Qué deidad estaba representada por un disco de oro?",
+    "opciones": [
+      "Yaraví",
+      "Capac Cocha",
+      "Inti Raymi",
+      "El Sol"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 88,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los sacrificios incaicos incluían animales, alime ntos y también ofrendas humanas en ocasiones especiales. ¿Qué ceremonia consistía en ofrendar dos niños al sacrificio humano?",
+    "opciones": [
+      "Por grandes lajas de piedra",
+      "Capac Cocha",
+      "El Sol",
+      "Inti Raymi"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 89,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las principales fiestas religiosas del incario fueron cuatro y estuvieron instituidas en honor al Sol. ¿Qué fiesta se celebraba en el solsticio de invierno?",
+    "opciones": [
+      "Chuño",
+      "Incas de privilegio",
+      "Inti Raymi",
+      "Capac Cocha"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 90,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el imperio incaico se hablaba quechua, aunque coexistían lenguas antiguas. ¿Qué lengua se menciona como propia de los señoríos del altiplano?",
+    "opciones": [
+      "Chiriguanos",
+      "Cubilete",
+      "Aimara",
+      "Huáscar"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 91,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los incas carecieron de escritura fonética, pero usaron un sistema para consignar numerales y hechos históricos. ¿Qué instrumento principal utilizaron con cuerdas y nudos?",
+    "opciones": [
+      "Uncu",
+      "Yaraví",
+      "Yllus propios",
+      "Quipus"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 92,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Entre las formas poéticas incas, una estaba destinada al canto y tenía ritmo con temas generalmente amorosos. ¿Cómo se llamaba esa forma poética mencionada?",
+    "opciones": [
+      "Yaraví",
+      "Uncu",
+      "Chinchaysuyo y Collasuyo",
+      "Cubilete"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 93,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La arquitectura inca empleó muros con aparejo de grandes bloques de piedra, perfectamente pulidos. ¿Cómo se llama el tipo de muro que encaja sin pasar una hoja entre juntas?",
+    "opciones": [
+      "Aríbalo",
+      "Aparejo poligonal",
+      "Maíz",
+      "Viracocha"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 94,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los caminos incaicos unían provincias del Collasuyo y de Quito, atravesando cordilleras y valles. ¿Cómo estaban formadas las calzadas construid as para comunicar puntos del imperio?",
+    "opciones": [
+      "Capac Cocha",
+      "Maíz",
+      "Por grandes lajas de piedra",
+      "Incas de privilegio"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 95,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La cerámica inca era sobria de color y respondía a formas determinadas. ¿Qué recipiente se describe con cántaro destinado a trasladar líquidos y elaborar chicha?",
+    "opciones": [
+      "Aríbalo",
+      "Yaraví",
+      "Maíz",
+      "Aparejo poligonal"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 96,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los vasos keros fueron usados para libaciones y derivaban del antiguo kero tiahuanacota, aunque realizados en maderas duras. ¿Qué forma tenía el kero incaico?",
+    "opciones": [
+      "Aimara",
+      "Cubilete",
+      "Yaraví",
+      "Viracocha"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 97,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La prenda masculina más significativa entre los incas era una túnica usada por varones y decorada con motivos geométricos. ¿Cómo se llamaba esa prenda?",
+    "opciones": [
+      "Yaraví",
+      "Quipus",
+      "Bronce",
+      "Uncu"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 98,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los incas trabajaron metales con destreza para objetos domésticos y armas. ¿Qué metal sirvió para hacer hachas, mazas y láminas enrolladas conocidas como “macanas”?",
+    "opciones": [
+      "Uncu",
+      "Bronce",
+      "Yaraví",
+      "Quipus"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 99,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante la Edad Media europea circularon teorías sobre islas, continentes y mares fantásticos. ¿Qué geógrafo de Alejandría puso de moda la Geografía en Europa?",
+    "opciones": [
+      "Ptolomeo",
+      "Disco plano flotando sobre un mar inmenso",
+      "Toscanelli",
+      "Tierra Firme"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 100,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El concepto popular europeo imaginaba mares y tierras fantásticas al otro lado del océano. ¿Qué disco flotante se menciona como una de las teorías sobre la forma del planeta?",
+    "opciones": [
+      "Ptolomeo",
+      "Erik el Rojo",
+      "Disco plano flotando sobre un mar inmenso",
+      "Yaraví"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 101,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Entre los navegantes del norte europeo, se menciona un personaje que atravesó el Atlántico Norte y llegó a Groenlandia. ¿Quién fue ese navegante destacado del siglo X?",
+    "opciones": [
+      "Disco plano flotando sobre un mar inmenso",
+      "Boriquén",
+      "Los Yáñez Pinzón",
+      "Erik el Rojo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 102,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los descubrimientos marítimos del siglo XV estuvieron impulsados por Portugal y por la navegación de Enrique. ¿Qué sobrenombre recibió el infante Enrique, hijo segundo de los reyes portugueses?",
+    "opciones": [
+      "Boriquén",
+      "Fernando V de Aragón e Isabel I de Castilla",
+      "s –",
+      "Erik el Rojo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 103,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El viaje portugués hacia Oriente avanzó mediante expl oraciones sucesivas por África. ¿Qué navegante dobló el Cabo de las Tormentas y dejó abierto el camino hacia India?",
+    "opciones": [
+      "Los Yáñez Pinzón",
+      "Bartolomé Díaz",
+      "Alejandro VI",
+      "370 leguas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 104,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el Renacimiento, los cálculos sobre la redondez terrestre influyeron en la empresa de Colón. ¿Qué florentino consideró inferior la distancia a las islas de Occidente?",
+    "opciones": [
+      "Hernando de Magallanes",
+      "Fernando V de Aragón e Isabel I de Castilla",
+      "Ptolomeo",
+      "Toscanelli"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 105,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La fecha de nacimiento de Colón se coloca entre dos años y su vida anterior a 1486 es poco conocida. ¿Entre qué años se ubica su nacimiento?",
+    "opciones": [
+      "1436 y 1452",
+      "Tierra Firme",
+      "Los Yáñez Pinzón",
+      "Boriquén"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 106,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Para realizar su expedición, Colón buscó patrocinio tras varias dificultades y se entrevistó con monarcas. ¿Qué reyes escucharon finalmente su proyecto antes de la empresa americana?",
+    "opciones": [
+      "Granada",
+      "Fernando V de Aragón e Isabel I de Castilla",
+      "Toscanelli",
+      "Río Yebra o Belén"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 107,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el primer viaje, Colón contó con apoyo económico y naval para organizar tres carabelas. ¿Qué hermanos participaron en la asociación inicial con el navegante?",
+    "opciones": [
+      "Rodrigo de Triana",
+      "Tierra Firme",
+      "Los Yáñez Pinzón",
+      "Boriquén"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 108,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El primer viaje de Colón partió de Palos y llegó a una isla el 12 de octubre de 1492. ¿Qué marinero dio el primer grito de tierra?",
+    "opciones": [
+      "Rodrigo de Triana",
+      "Los Yáñez Pinzón",
+      "Tierra Firme",
+      "Boriquén"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 109,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el segundo viaje, Colón salió de Cádiz y entre su tripulación estaban religiosos, médicos y navegantes. ¿Qué isla descubrió el 16 de noviembre?",
+    "opciones": [
+      "Tierra Firme",
+      "Rodrigo de Triana",
+      "Los Yáñez Pinzón",
+      "Boriquén"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 110,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el tercer viaje, Colón descubrió la costa occidental de un continente en la desembocadura del Orinoco. ¿Qué nombre le dio a esa costa?",
+    "opciones": [
+      "Rodrigo de Triana",
+      "Boriquén",
+      "Los Yáñez Pinzón",
+      "Tierra Firme"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 111,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el cuarto viaje, Colón llegó a zonas del Caribe y Centroamérica, pero enfrentó corrientes y dificultades. ¿En qué lugar luchó contra indígenas y abandonó barcos?",
+    "opciones": [
+      "Rodrigo de Triana",
+      "Tierra Firme",
+      "Río Yebra o Belén",
+      "Los Yáñez Pinzón"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 112,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tras conocer los nuevos territorios, Fernando e Isabel buscaron legitimar su posesión mediante autoridad espiritual. ¿Qué papa concedió la posesión mediante la bula Inter Coetera?",
+    "opciones": [
+      "Alejandro VI",
+      "Granada",
+      "Bartolomé Díaz",
+      "Juan Sebastián El Cano"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 113,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El Tratado de Tordesillas fue aceptado en 1494 para resolver reclamaciones portuguesas por viajes al océano. ¿A cuántas leguas del Cabo Verde se trazó la nueva demarcación?",
+    "opciones": [
+      "Bartolomé Díaz",
+      "370 leguas",
+      "1492",
+      "1436 y 1452"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 114,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La primera vuelta al mundo respondió al problema de alcanzar las islas de las Especias y demostrar la redondez terrestre. ¿Quién orga nizó la expedición que salió de Sevilla en 1519?",
+    "opciones": [
+      "Juan Sebastián El Cano",
+      "Toscanelli",
+      "Boriquén",
+      "Hernando de Magallanes"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 115,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tras la muerte de Magallanes en Filipinas, uno de sus capitanes continuó la expedición y llegó a Sevilla en 1522. ¿Quién culminó la primera vuelta al mundo?",
+    "opciones": [
+      "Juan Sebastián El Cano",
+      "Hernando de Magallanes",
+      "Francisco Pizarro",
+      "Fernando V de Aragón e Isabel I de Castilla"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 116,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La llegada de Colón a América cambió la historia de la humanidad y ocurrió cuando España se consolidaba como Estado unitario. ¿Qué año marca esa llegada al Nuevo Mundo?",
+    "opciones": [
+      "Huayna Capac",
+      "Tierra Firme",
+      "1492",
+      "Juan Sebastián El Cano"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 117,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El triunfo de los reyes Isabel y Fernando permitió culminar una larga recuperación territorial. ¿Qué ciudad musulmana fue derrotada definitivamente antes del viaje de Colón?",
+    "opciones": [
+      "Alejandro VI",
+      "Granada",
+      "Fernando V de Aragón e Isabel I de Castilla",
+      "Tierra Firme"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 118,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Uno de los rasgos esenciales del imperio español fue su impronta religiosa y defensa del catolicismo. ¿Qué institución fue creada en 1231 por Gregorio IX?",
+    "opciones": [
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Requerimiento",
+      "Tribunal de la Santa Inquisición"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 119,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Entre los móviles de la conquista se mencionan enriquecimiento, evangelización y expansión. ¿Qué deseo acompañó al afán de enriquecimiento en la explicación tradicional de la conquista?",
+    "opciones": [
+      "Una habitación del templo",
+      "Extender la palabra de Cristo",
+      "Vicente de Valverde",
+      "Hernán Cortés"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 120,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La gran fortaleza de aztecas e incas fue también una debilidad por su organización rígida. ¿Qué estructura facilitó el funcionamiento de complejos entramados sociales?",
+    "opciones": [
+      "Hernán Cortés",
+      "Huayna Capac",
+      "Estructura jerárquica rígida",
+      "Batalla de Quipaypán"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 121,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la conquista de México, un conquistador derrotó un imperio poderoso y permaneció varios años en guerra. ¿Quién conquistó el imperio de los aztecas en 1521?",
+    "opciones": [
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Estructura jerárquica rígida",
+      "Tribunal de la Santa Inquisición"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 122,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La conquista del Perú culminó con la irrupción española sobre el imperio incaico. ¿Qué conquistador del imperio incaico llegó cerca de medio siglo después del inicio de la presencia española?",
+    "opciones": [
+      "Hernán Cortés",
+      "15 de noviembre de 1532",
+      "Juan Sebastián El Cano",
+      "Francisco Pizarro"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 123,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Atahualpa nació alrededor de 1500 cerca de Quito y fue el último de los incas reinantes antes de la llegada europea. ¿Quién fue su padre?",
+    "opciones": [
+      "1492",
+      "15 de noviembre de 1532",
+      "Huayna Capac",
+      "Batalla de Quipaypán"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 124,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La disputa hereditaria entre Atahualpa y Huáscar terminó en una guerra civil previa al contacto con Pizarro. ¿En qué batalla venció Atahualpa a Huáscar?",
+    "opciones": [
+      "15 de noviembre de 1532",
+      "Batalla de Quipaypán",
+      "Vicente de Valverde",
+      "Cuzco"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 125,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Francisco Pizarro nació en Trujillo y participó en expediciones tempranas antes de conquistar el Perú. ¿Qué ciudad del actual Perú conquistó finalmente en 1533?",
+    "opciones": [
+      "Cuzco",
+      "Sacsahuaman",
+      "Huayna Capac",
+      "Vicente de Valverde"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 126,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La conquista de México sirvió de modelo a Pizarro para su empresa peruana. ¿Qué conquistador había demostrado que era posible doblegar imperios poderosos?",
+    "opciones": [
+      "Hernán Cortés",
+      "Hernando de Luque",
+      "Francisco Pizarro",
+      "Extender la palabra de Cristo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 127,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La expedición de Pizarro y Almagro partió en 1524 después de asociarse con otros vecinos de Panamá. ¿Qué sacerdote financista se unió a esa empresa conquistadora?",
+    "opciones": [
+      "El sur",
+      "Hernando de Luque",
+      "Hernán Cortés",
+      "Cristóbal"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 128,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Pizarro llegó a Cajamarca cuando el ejército de Atahualpa estaba acampado cerca, tras haber derrotado militarmente a Huáscar. ¿En qué fecha llegó Pizarro a Cajamarca?",
+    "opciones": [
+      "Vicente de Valverde",
+      "Batalla de Quipaypán",
+      "Salinas",
+      "15 de noviembre de 1532"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 129,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En Cajamarca, Pizarro envió a un hermano y a un religioso para invitar al Inca a la ciudad. ¿Qué fraile acompañó a Hernando Pizarro ante Atahualpa?",
+    "opciones": [
+      "Minas de Porco",
+      "15 de noviembre de 1532",
+      "Vicente de Valverde",
+      "Cuzco"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 130,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El encuentro en Cajamarca terminó con la captura del Inca tras una escena violenta. ¿Qué documento leyó o recitó Valverde antes del ataque español?",
+    "opciones": [
+      "15 de noviembre de 1532",
+      "Requerimiento",
+      "Salinas",
+      "Vicente de Valverde"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 131,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El rescate de Atahualpa fue una de las escenas más conocidas de la conquista. ¿Qué ofreció el Inca llenar hasta una línea marcada para recuperar su libertad?",
+    "opciones": [
+      "Una habitación del templo",
+      "Garrote",
+      "6.087 kilos",
+      "Batalla de Quipaypán"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 132,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El rescate de Atahualpa reunió metales preciosos de templos y ciudades. ¿Qué cantidad de oro fino se fundió para repartir entre españoles tras el pago?",
+    "opciones": [
+      "Una habitación del templo",
+      "Garrote",
+      "6.087 kilos",
+      "Batalla de Quipaypán"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 133,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Después del rescate, Atahualpa enfrentó acusaciones de ido latría, traición y fratricidio. ¿Qué pena recibió el 26 de julio de 1533?",
+    "opciones": [
+      "Una habitación del templo",
+      "6.087 kilos",
+      "El sur",
+      "Garrote"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 134,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Después de la muerte de Atahualpa, Pizarro marchó hacia una ciudad de gran valor simbólico y religioso. ¿Qué ciudad era su objetivo más importante?",
+    "opciones": [
+      "Vicente de Valverde",
+      "Alonso de Mendoza",
+      "Cuzco",
+      "Batalla de Quipaypán"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 135,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En 1534 y 1536 los españoles iniciaron una campaña para consolidar su poder frente a los quiteños. ¿Qué rebelión comenzó con la organización de un gran ejército?",
+    "opciones": [
+      "15 de noviembre de 1532",
+      "Rebelión de Manco II",
+      "Clérigo",
+      "Cerro Rico de Potosí"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 136,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el cerco del Cuzco, los defensores incas atacaron con hondas y piedras al rojo vivo. ¿Qué fortaleza fue desalojada finalmente por Hernando Pizarro?",
+    "opciones": [
+      "Vicente de Valverde",
+      "Cuzco",
+      "Minas de Porco",
+      "Sacsahuaman"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 137,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La consolidación de la conquista se produjo cuando Manco se retiró a Vilcabamba y los españoles institucionalizaron el dominio. ¿Qué virreinato fue creado en 1543?",
+    "opciones": [
+      "Virreinato del Perú",
+      "Cristóbal",
+      "Cerro Rico de Potosí",
+      "Rebelión de Manco II"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 138,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En 1533, Almagro llegó desde Panamá con refuerzos y se instaló en el Cuzco. ¿Qué territorio recibió bajo el nombre de Nueva Toledo?",
+    "opciones": [
+      "Cristóbal",
+      "Salinas",
+      "Hernando de Luque",
+      "El sur"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 139,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Paullu acompañó a Almagro en la expedición y luego fue reconocido bajo el dominio español. ¿Qué nombre recibió al ser bautizado en el cristianismo?",
+    "opciones": [
+      "El sur",
+      "Salinas",
+      "Cristóbal",
+      "Virreinato del Perú"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 140,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La rivalidad entre Pizarro y Almagro terminó en guerra civil tras el regreso de Almagro desde Chile. ¿En qué batalla fue derrotado Almagro en 1538?",
+    "opciones": [
+      "Salinas",
+      "El sur",
+      "Cristóbal",
+      "15 de noviembre de 1532"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 141,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Francisco Pizarro envió a su hermano Gonzalo a conquistar Charcas y el Collao. ¿Qué región exploró Gonzalo Pizarro tras permanecer en territorio de Charcas?",
+    "opciones": [
+      "Vicente de Valverde",
+      "Minas de Porco",
+      "Lima",
+      "Salinas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 142,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El padre Bartolomé de las Casas denunció abusos contra indígenas y redactó obras críticas. ¿Qué leyes se conocen como Ordenanzas de Barcelona de 1542?",
+    "opciones": [
+      "Blasco Núñez de Vela",
+      "Nuevas Leyes",
+      "Lima",
+      "El sur"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 143,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las Ordenanzas de Barcelona buscaban reprimir abusos de conquistadores y fueron aplicadas mediante un virrey. ¿Quién fue el primer Virrey del Perú encargado de hacerlas cumplir?",
+    "opciones": [
+      "Nuevas Leyes",
+      "Clérigo",
+      "Alonso de Mendoza",
+      "Blasco Núñez de Vela"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 144,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Gonzalo Pizarro se rebeló contra las nuevas leyes y encabezó a los encomenderos afectados. ¿En qué lugar fue recibido por la Audiencia de Lima casi como emperador?",
+    "opciones": [
+      "Lima",
+      "Minas de Porco",
+      "Nuevas Leyes",
+      "Cuzco"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 145,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La Gasca fue enviado con poderes para pacificar el Perú tras la rebelión pizarrista. ¿Qué cargo eclesiástico tenía Pedro de la Gasca al llegar al Perú?",
+    "opciones": [
+      "Alonso de Mendoza",
+      "Blasco Núñez de Vela",
+      "Clérigo",
+      "Rebelión de Manco II"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 146,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Pacificado el Perú, La Gasca envió a uno de sus capitanes realistas a fundar una ciudad nueva. ¿Quién fue enviado a fundar la ciudad de La Paz?",
+    "opciones": [
+      "Clérigo",
+      "Cuzco",
+      "Alonso de Mendoza",
+      "Minas de Porco"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 147,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En medio de las guerras civiles se produjo el descubrimiento de los yacimientos de plata más grandes del mundo. ¿Qué cerro se convirtió en símbolo y poder para la historia de Charcas?",
+    "opciones": [
+      "Minas de Porco",
+      "Cerro Rico de Potosí",
+      "Perestrello",
+      "Rebelión de Manco II"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 148,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La idea sobre la existencia de continentes o islas al otro lado del Atlántico se remonta a la antigüedad clásica. ¿Qué filósofo griego hablaba de la Atlántida situada más allá de las columnas de Hércules?",
+    "opciones": [
+      "Marco Polo",
+      "Último Thule",
+      "Siglo XV",
+      "s –"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 149,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los conocimientos árabes difundieron en Europa la geografía antigua, especialmente la de un célebre geógrafo de Alejandría, asociado a territorios africanos ricos. ¿Qué geógrafo fue puesto de moda en Europa?",
+    "opciones": [
+      "Ptolomeo",
+      "Toscanelli",
+      "Marklandia",
+      "Clérigo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 150,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Una corriente eur opea reveló la existencia y cultura de imperios asiáticos como Catay y Cipango, despertando interés por riquezas orientales. ¿Qué viajero veneciano fue vinculado con esos descubrimientos?",
+    "opciones": [
+      "Cabo Bojador",
+      "Marco Polo",
+      "Toscanelli",
+      "Último Thule"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 151,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el concepto popular europeo medieval, se creía que la tierra era plana y que su extensión terminaba en un abismo. ¿Cómo se denominaba el extremo final del mundo?",
+    "opciones": [
+      "Rodrigo de Triana",
+      "Marklandia",
+      "Último Thule",
+      "Cerro Rico de Potosí"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 152,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los primeros viajes nórdicos al continente americano incluyeron exploraciones hacia Labrador y la costa oriental de los Estados Unidos. ¿Qué nombre recibió la primera tierra descubierta por Leif Erikson?",
+    "opciones": [
+      "Marklandia",
+      "Bartolomé Díaz",
+      "Último Thule",
+      "Rodrigo de Triana"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 153,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las colonias escandinavas fundadas en tierras americanas tuvieron cierta prosperidad durante varios siglos, con granjas, iglesias y monasterios. ¿En qué siglo se extinguieron esas colonias?",
+    "opciones": [
+      "25 de septiembre de 1493",
+      "Rodrigo de Triana",
+      "Caonabó y Mayrení",
+      "Siglo XV"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 154,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las expediciones portuguesas impulsadas por Enrique el Navegante buscaron explorar costas africanas y comerciar con ellas. ¿Qué cabo fue descubierto como producto de esos viajes?",
+    "opciones": [
+      "Bartolomé Díaz",
+      "Marklandia",
+      "Yáñez Pinzón",
+      "Cabo Bojador"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 155,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el reinado de Alfonso V y Juan II, un navegante hizo posible la ruta oriental hacia la India al doblar un cabo africano. ¿Qué navegante realizó esa hazaña en 1488?",
+    "opciones": [
+      "Cabo Bojador",
+      "Yáñez Pinzón",
+      "Bartolomé Díaz",
+      "Rodrigo de Triana"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 156,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las teorías renacentistas sobre la redondez terrestre influyeron en Colón, especialmente por cálculos que reducían la distancia hacia Occidente. ¿Qué cosmógrafo florentino realizó esos cálculos?",
+    "opciones": [
+      "Toscanelli",
+      "Rodrigo de Triana",
+      "Bartolomé Díaz",
+      "Perestrello"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 157,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Sobre Cristóbal Colón se indica una posibilidad verosímil acerca de su origen, distinta de la versión tradicional genovesa. ¿Qué origen le atribuyen algunos investigadores contemporáneos?",
+    "opciones": [
+      "Perestrello",
+      "Judío de origen español",
+      "Santa María",
+      "Un octavo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 158,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la génesis del descubrimiento, se menciona una leyenda sobre un viaje de Colón por mares del norte y su vida en Portugal. ¿Con la hija de quién se casó Colón?",
+    "opciones": [
+      "Caonabó y Mayrení",
+      "Perestrello",
+      "Yáñez Pinzón",
+      "Rodrigo de Triana"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 159,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tras varias dificultades, Colón obtuvo apoyo de los Reyes Ca tólicos mediante capitulaciones firmadas en Santa Fe. ¿Qué proporción del precio y gastos de la expedición debía contribuir Colón?",
+    "opciones": [
+      "Perestrello",
+      "Cabos de Honduras",
+      "Un octavo",
+      "Valladolid"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 160,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el primer viaje, Colón se asoció con navegantes que ayudaron a comprar y armar tres carabelas. ¿Con qué hermanos se asoció el navegante?",
+    "opciones": [
+      "Yáñez Pinzón",
+      "Caonabó y Mayrení",
+      "Santa María",
+      "Perestrello"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 161,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las tres carabelas del primer viaje colombino tenían desplazamiento cercano a cien toneladas cada una. ¿Cuál era el nombre tradicional de la carabela llamada oficialmen te María Galante?",
+    "opciones": [
+      "Yáñez Pinzón",
+      "Caonabó y Mayrení",
+      "Rodrigo de Triana",
+      "Santa María"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 162,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El primer grito de tierra durante el viaje de Colón se atribuye por tradición a un marinero, cuando la expedición llegó a Guanahaní. ¿Qué marinero realizó ese aviso?",
+    "opciones": [
+      "Caonabó y Mayrení",
+      "Rodrigo de Triana",
+      "Yáñez Pinzón",
+      "Perestrello"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 163,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La segunda salida de Colón hacia el Nuevo Mundo partió del puerto de Cádiz con una tripulación numerosa y varios acompañantes. ¿En qué fecha se produjo esta salida?",
+    "opciones": [
+      "Sabroca",
+      "Perestrello",
+      "Toscanelli",
+      "25 de septiembre de 1493"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 164,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Al llegar a La Navidad en el segu ndo viaje, Colón encontró destruido el fuerte levantado durante el primer viaje. ¿Qué caciques habían dado muerte a toda la guarnición?",
+    "opciones": [
+      "Yáñez Pinzón",
+      "Rodrigo de Triana",
+      "Caonabó y Mayrení",
+      "Perestrello"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 165,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En mayo de 1494, Colón construyó una nueva fortaleza y dejó a su hermano como gobernador, quien luego fundó Santo Domingo. ¿Qué nombre recibió la fortaleza?",
+    "opciones": [
+      "La Isabela",
+      "Valladolid",
+      "Sabroca",
+      "Perestrello"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 166,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el tercer viaje, los enemigos de Colón consiguieron que se nombrara a una autoridad con funciones de juez pesquisidor. ¿Quién fue designado para esa tarea en 1499?",
+    "opciones": [
+      "Francisco de Bobadilla",
+      "Caonabó y Mayrení",
+      "Perestrello",
+      "Rodrigo de Triana"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 167,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el cuarto viaje, Colón atravesó varias islas caribeñas antes de descubrir tierras de América Central. ¿Qué territorio descubrió con dirección sur desde Cuba y la isla de los Pinos?",
+    "opciones": [
+      "Perestrello",
+      "Cabos de Honduras",
+      "Caonabó y Mayrení",
+      "Yáñez Pinzón"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 168,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Luego de su último viaje, Colón llegó enfermo, buscó apoyo real y murió poco después de recibir sacramentos. ¿En qué ciudad dejó de existir el 21 de mayo de 1506?",
+    "opciones": [
+      "La Isabela",
+      "Perestrello",
+      "Valladolid",
+      "33 años"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 169,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tras conocerse los nuevos territorios, los monarcas españoles solicitaron respaldo pontificio para legalizar su posesión. ¿Qué pontífice concedió la Bula Inter Coetera?",
+    "opciones": [
+      "Carlos V y Felipe II",
+      "Un octavo",
+      "La Isabela",
+      "Alejandro VI"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 170,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el Tratado de Tordesillas, Portugal obtuvo un sec tor americano que fue descubierto en 1500 por un marino portugués. ¿Qué territorio se adjudicaba a Portugal?",
+    "opciones": [
+      "Perestrello",
+      "Un octavo",
+      "s –",
+      "Cabos de Honduras"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 171,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Hernando de Magallanes participó en expediciones portuguesas y luego recibió apoyo de Carlos V para circunnavegar el mundo. ¿En qué villa portuguesa nació hacia 1480?",
+    "opciones": [
+      "Victoria",
+      "Vasco Núñez de Balboa",
+      "Valladolid",
+      "Sabroca"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 172,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Al morir Magallanes en Filipinas, el mando de la expedición recayó en un navegante que continuó hasta España. ¿Qué nave comandó para culminar la vuelta al mundo?",
+    "opciones": [
+      "Victoria",
+      "Sabroca",
+      "Yáñez Pinzón",
+      "Tribunal de la Santa Inquisición"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 173,
+    "tema": "Historia de Bolivia",
+    "pregunta": "España llegó a su cenit con dos monarcas que dominaron territorios europeos, americanos y asiáticos durante el siglo XVI. ¿Qué monarcas se mencionan como figuras de ese periodo?",
+    "opciones": [
+      "Alejandro VI",
+      "Carlos V y Felipe II",
+      "Rodrigo de Triana",
+      "168 europeos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 174,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la defensa del catolicismo, España sostuvo guerras religiosas para preservar su doctrina. ¿Qué institución fue creada en 1231 por orden del Papa Gregorio IX?",
+    "opciones": [
+      "Victoria",
+      "Tribunal de la Santa Inquisición",
+      "Carlos V y Felipe II",
+      "Vasco Núñez de Balboa"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 175,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La conquista se vio favorecida por la difere ncia tecnológica entre Europa y América, especialmente en transporte, armas y navegación. ¿Qué animal europeo fue señalado como posible arma más poderosa?",
+    "opciones": [
+      "Cabos de Honduras",
+      "Trazar una línea en la arena",
+      "Viruela",
+      "Caballo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 176,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Entre los factores decisivos de la conquista se mencionan enfermedad es transmitidas entre pueblos con distintos sistemas inmunológicos. ¿Qué epidemia produjo muchas muertes indígenas en México?",
+    "opciones": [
+      "Viruela",
+      "Carlos V y Felipe II",
+      "Trazar una línea en la arena",
+      "Una quinta parte"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 177,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La conquista se financió como aventura de riesgo compartido, donde la Corona otorgaba derechos potenciales sobre tierras conquistadas. ¿Qué porción de lo obtenido descontaba la Corona para el Rey?",
+    "opciones": [
+      "Cabos de Honduras",
+      "Trazar una línea en la arena",
+      "Una quinta parte",
+      "Viruela"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 178,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la explicación del éxito conquistador, las campañas diplomáticas fueron asociadas a ideas de un pensador italiano. ¿Qué autor influyó mediante conceptos aplicados desde Cortés hasta negociaciones de Pizarro?",
+    "opciones": [
+      "Vasco Núñez de Balboa",
+      "Maquiavelo",
+      "Trazar una línea en la arena",
+      "Trescientos jinetes"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 179,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Atahuallpa venció militarmente a su hermano antes de ser apresado por Pizarro, dentro de la guerra sucesoria incaica. ¿En qué batalla logró vencer a Huáscar?",
+    "opciones": [
+      "Hernando Pizarro",
+      "Toparpa Huallpa",
+      "33 años",
+      "Quipaypán"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 180,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Atahuallpa fue apresado en Cajamarca y luego ejecutado, después de acusaciones formuladas por Pizarro. ¿Cuántos años tenía aproximadamente cuando murió el 26 de julio de 1533?",
+    "opciones": [
+      "Quipaypán",
+      "Hernando Pizarro",
+      "33 años",
+      "Valladolid"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 181,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Francisco Pizarro acompañó a otro conquistador en la expedición a Colombia y participó luego en el descubrimiento del océano Pacífico. ¿Con quién estuvo al lado en 1513?",
+    "opciones": [
+      "Vasco Núñez de Balboa",
+      "Gonzalo Pizarro",
+      "Trescientos jinetes",
+      "Coquimbo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 182,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la difícil ruta de la conquista del Perú, la expedición de Pizarro sufrió hambre, batallas y abandono. ¿Qué decisión tomó Pizarro en la Isla del Gallo?",
+    "opciones": [
+      "Gonzalo Pizarro",
+      "Trazar una línea en la arena",
+      "168 europeos",
+      "Toparpa Huallpa"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 183,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Al tomar la decisión de avanzar hacia el Perú, Pizarro se internó con un contingente pequeño frente a un imperio poderoso. ¿Cuántos europeos componían el minúsculo ejército inicial?",
+    "opciones": [
+      "168 europeos",
+      "Trazar una línea en la arena",
+      "Gonzalo Pizarro",
+      "Trescientos jinetes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 184,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Antes del encuentro con Atahuallpa en Cajamarca, Pizarro envió a su hermano para parlamentar con el Inca e invitarlo a la ciudad. ¿Qué hermano fue enviado?",
+    "opciones": [
+      "Gonzalo Pizarro",
+      "Toparpa Huallpa",
+      "Hernando Pizarro",
+      "Quipaypán"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 185,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En Cajamarca, el sacerdote Valverde fue acompañado por un intérprete que facilitó la comunicación con Atahuallpa. ¿Qué intérprete aparece mencionado en este encuentro?",
+    "opciones": [
+      "Hernando Pizarro",
+      "33 años",
+      "Quipaypán",
+      "Felipillo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 186,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Cuando el tesoro del rescate fue fundido para repartirse, el resultado se consideró uno de los botines más fabulosos. ¿Cuántos kilos de oro fino se obtuvieron?",
+    "opciones": [
+      "Trescientos jinetes",
+      "33 años",
+      "6.087 kilos",
+      "168 europeos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 187,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En los acon tecimientos del Cuzco, Pizarro impuso a un hermano menor de Atahuallpa para ganar apoyo de seguidores cuzqueños. ¿Qué inca fue impuesto inicialmente por Pizarro?",
+    "opciones": [
+      "Toparpa Huallpa",
+      "Hernando Pizarro",
+      "Gonzalo Pizarro",
+      "Quipaypán"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 188,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la marcha hacia Cuzco, una gran batalla ocurrió en una ladera donde las tropas españolas enfrentaron al mando de Quizquiz. ¿Cómo se llamaba ese lugar?",
+    "opciones": [
+      "Conchapata",
+      "Vilcaconga",
+      "Yaquisaguana",
+      "Paria"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 189,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el asedio de Cuzco encabezado por Manco, los españoles recurrieron a refuerzos desde Lima. ¿Cuántos jinetes envió Francisco Pizarro para auxiliar a los defensores?",
+    "opciones": [
+      "Gonzalo Pizarro",
+      "Vasco Núñez de Balboa",
+      "Titu Cusi Huallpa",
+      "Trescientos jinetes"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 190,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la defensa de Cuzco durante la rebelión de Manco, se destacó un capitán indígena que prefirió morir antes que entregarse. ¿Qué nombre recibió este capitán?",
+    "opciones": [
+      "Titu Cusi Huallpa",
+      "Trescientos jinetes",
+      "Paria",
+      "Yaquisaguana"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 191,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Diego de Almagro salió del Cuzco en julio de 1535 y siguió una ruta hacia el sur con apoyo indígena. ¿En qué lugar estableció su primer campamento?",
+    "opciones": [
+      "Vilcaconga",
+      "Toparpa Huallpa",
+      "Paria",
+      "Juan Rodríguez"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 192,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La expedición de Almagro avanzó desde Tupiza hacia territorio argentino y luego llegó a Chile, después de muchas dificultades. ¿Dónde se unió a la expedición que venía por mar?",
+    "opciones": [
+      "Vasco Núñez de Balboa",
+      "Porco",
+      "Paria",
+      "Coquimbo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 193,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la nueva expedición al Collao y Charcas, Francisco Pizarro envió a un hermano para avanzar sobre regiones aún sin colonizar. ¿A quién envió Pizarro?",
+    "opciones": [
+      "Hernando Pizarro",
+      "Gonzalo Pizarro",
+      "Trescientos jinetes",
+      "Porco"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 194,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante la fundación de Chuquisaca, Pedro Anzúrez llegó a un sitio cercano a Pacha desde donde hizo el reparto de solares. ¿Cómo se llamaba ese lugar?",
+    "opciones": [
+      "Conchapata",
+      "Vilcaconga",
+      "Trescientos jinetes",
+      "Coquimbo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 195,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las denuncias contra abusos de conquistadores se iniciaron temprano en las Antillas con un sermón pronunciado en Santo Domingo. ¿Qué fraile protestó en 1511 contra esos abusos?",
+    "opciones": [
+      "Chaqui Catari",
+      "Antonio de Montesinos",
+      "Brevísima Relación de la Destrucción de las Indias",
+      "Titu Cusi Huallpa"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 196,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Bartolomé de Las Casas escribió una obra de denuncia que circuló por Europa y fue usada contra España. ¿Qué obra constituyó la base de su fama?",
+    "opciones": [
+      "Antonio de Montesinos",
+      "Chaqui Catari",
+      "Brevísima Relación de la Destrucción de las Indias",
+      "El Demonio de los Andes"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 197,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la rebelión de Gonzalo Pizarro, varios capitanes de Charcas lo apoyaron desde regiones mineras. ¿Dónde se hallaba Gonzalo Pizarro cuando encabezó la resistencia?",
+    "opciones": [
+      "Gonzalo Pizarro",
+      "Chaqui Catari",
+      "Yaquisaguana",
+      "Porco"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 198,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En las guerras civiles del Perú, Francisco Carvajal aparece como figura militar relevante por su experiencia y dureza. ¿Con qué apodo fue conocido ese viejo soldado?",
+    "opciones": [
+      "Blasco Núñez de Vela",
+      "Vasco de Godínez",
+      "El Demonio de los Andes",
+      "Yaquisaguana"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 199,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La Gasca logró derrotar a Pizarro y Carvajal mediante una batalla decisiva que puso fin a la rebelión. ¿Cómo se llamó esa batalla?",
+    "opciones": [
+      "Vilcaconga",
+      "Porco",
+      "El Demonio de los Andes",
+      "Yaquisaguana"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 200,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El primer cura de la ciudad de La Paz participó en la decisión sobre su emplazamiento definitivo. ¿Qué bachiller fue consagrado como primer cura?",
+    "opciones": [
+      "Juan Rodríguez",
+      "Badajoz",
+      "1555",
+      "Paria"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 201,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El escudo de La Paz concedido por Carlos V contenía una inscripción alusiva a concordia, paz y memoria perpetua. ¿En qué año fue concedido ese escudo?",
+    "opciones": [
+      "Águila bicéfala",
+      "1555",
+      "Juan Rodríguez",
+      "Badajoz"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 202,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Alonso de Mendoza fue natural de Garrobilla, participó en luchas internas y recibió órdenes de fundar La Paz. ¿En qué provincia española se ubicaba Garrobilla?",
+    "opciones": [
+      "Juan Rodríguez",
+      "Badajoz",
+      "1555",
+      "1551"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 203,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La tradición sobre el descubrimiento del Cerro Rico menciona a un indígena yanacona que servía a Huayna Capac. ¿Qué nombre tenía el descubridor de la veta de plata?",
+    "opciones": [
+      "Diego Huallpa",
+      "Chaqui Catari",
+      "Fundadores y pobladores",
+      "Azogue"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 204,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los indígenas reaccionaron contra los nuevos dueños de la plata en el Cerro Rico y se produjo un enfrentamiento sangriento. ¿Qué cacique encabezó la resistencia indígena?",
+    "opciones": [
+      "Diego Huallpa",
+      "Porco",
+      "Fundadores y pobladores",
+      "Chaqui Catari"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 205,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La Corona reconoció jurídicamente a Juan de Villarroel y Diego Centeno por sus acciones vinculadas al Cerro Rico. ¿Qué título se les concedió en 1546?",
+    "opciones": [
+      "Diego Huallpa",
+      "Chaqui Catari",
+      "Fundadores y pobladores",
+      "Vasco de Godínez"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 206,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El nuevo escudo de Potosí, otorgado por Felipe II, incorporó elementos heráldicos como leones, castillos y columnas. ¿Qué ave aparecía entre las columnas de Hércules?",
+    "opciones": [
+      "1555",
+      "Chaqui Catari",
+      "Diego Huallpa",
+      "Águila bicéfala"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 207,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el gobierno del virrey Antonio de Mendoza, la Audiencia de Lima se hizo cargo temporalmente del virreinato. ¿Hasta qué año ejerció esa función interina?",
+    "opciones": [
+      "Badajoz",
+      "1551",
+      "Potosí",
+      "Blasco Núñez de Vela"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 208,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la insurrección de Castilla y Godínez, un soldado vasco ejecutó a Castilla mientras se dirigía a Chuquisaca. ¿Qué soldado mató a Sebastián de Castilla?",
+    "opciones": [
+      "El Demonio de los Andes",
+      "Sebastián Barba de Padilla",
+      "Vasco de Godínez",
+      "Fundadores y pobladores"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 209,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La sublevación de Hernández Girón se inició en el Cuzco después de deponer al corregidor y oponerse a autoridades virreinales. ¿En qué mes y año se alzó Girón?",
+    "opciones": [
+      "Noviembre de 1554",
+      "1551",
+      "1555",
+      "Vasco de Godínez"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 210,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Antes del arribo de Toledo, el Perú atravesó guerras civiles y conflictos entre conquistadores. ¿Qué primer virrey intentó imponer las Nuevas Leyes de Indias?",
+    "opciones": [
+      "El Demonio de los Andes",
+      "Blasco Núñez de Vela",
+      "Juan Rodríguez",
+      "1551"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 211,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Francisco de Toledo se formó en la corte de Carlos I y recibió una i nvestidura honorífica a los veinte años. ¿De qué orden fue nombrado caballero?",
+    "opciones": [
+      "Alcántara",
+      "Villa de Oropesa",
+      "Pedro Sarmiento de Gamboa",
+      "1555"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 212,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La visita general de Toledo tuvo varias etapas; una de ellas recorrió la Audiencia de Charcas y culminó en una ciudad colonial. ¿A qué ciudad llegó en 1572?",
+    "opciones": [
+      "Martín Hurtado de Arbieto y Juan Álvarez Maldonado",
+      "Villa de Oropesa",
+      "Pedro Sarmiento de Gamboa",
+      "Potosí"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 213,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Para fundamentar la legitimidad de la conquista, Toledo encargó recoger información histórica a un cronista. ¿Quién recibió el encargo de escribir Historia Indica en 1572?",
+    "opciones": [
+      "Sebastián Barba de Padilla",
+      "Martín Hurtado de Arbieto y Juan Álvarez Maldonado",
+      "Pedro Sarmiento de Gamboa",
+      "Potosí"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 214,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las reducciones de indios buscaban reorganizar la población rural dispersa mediante pueblos de diseño español. ¿Cuántas familias podían tener en promedio las concentraciones urbanas logradas?",
+    "opciones": [
+      "San Lorenzo o Tarija la Vieja",
+      "Porcino",
+      "Villa de Oropesa",
+      "Cuatrocientas familias"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 215,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La explotación de la plata mejoró con avances técnicos y uso de mercurio, impulsando el auge potosino. ¿Qué técnica reemplazó al trabajo de “plata blanca” o “plomo ronco”?",
+    "opciones": [
+      "Diego Huallpa",
+      "Chaqui Catari",
+      "Azogue",
+      "Potosí y Cuzco"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 216,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La técnica del azogue permitió obtener plata más pura y de mayor rendimiento mediante incorporación de un metal líquido. ¿Qué metal hacía posible la amalgamación eficiente?",
+    "opciones": [
+      "Azogue",
+      "s –",
+      "Ordoño de Aguirre",
+      "Chaqui Catari"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 217,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Toledo declaró guerra a los rebeldes de Vilcabamba en 1572 y organizó una expedición militar. ¿Quiénes estuvieron al mando de ese ejército?",
+    "opciones": [
+      "Martín Hurtado de Arbieto y Juan Álvarez Maldonado",
+      "Potosí",
+      "Pedro Sarmiento de Gamboa",
+      "Alcántara"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 218,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La fundación de Cochabamba fue ordenada por Toledo en el antiguo valle de Kjocha Pampa, con población española e indígena. ¿Qué nombre recibió la nueva ciudad?",
+    "opciones": [
+      "Villa de Oropesa",
+      "Sebastián Barba de Padilla",
+      "San Lorenzo o Tarija la Vieja",
+      "Potosí"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 219,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La fundación nominal de Cochabamba también fue realizada por encargo de Toledo a un juez de residencia. ¿Quién ejecutó la fundación del 1 de enero de 1574?",
+    "opciones": [
+      "Villa de Oropesa",
+      "Pedro Sarmiento de Gamboa",
+      "Ordoño de Aguirre",
+      "Sebastián Barba de Padilla"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 220,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Desde sus primeros días, la Villa de Oropesa mostró riqueza agropecuaria, abundancia de ganado y producción rural. ¿Qué tipo de ganado se menciona junto al ovino y bovino?",
+    "opciones": [
+      "Villa de San Juan de Rodas",
+      "Cuatrocientas familias",
+      "Porcino",
+      "300 a 400.000 pesos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 221,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la fundación de Tarija, Luis Fuentes y 45 españoles encontraron una población antigua levantada por conquistadores anteriores. ¿Cómo se conoce hoy esa población?",
+    "opciones": [
+      "Villa de Oropesa",
+      "San Lorenzo o Tarija la Vieja",
+      "Ordoño de Aguirre",
+      "Sebastián Barba de Padilla"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 222,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Para defender la frontera de ataques chiriguanos, se organizaron ciudades qu e servían como línea de contención. ¿Qué pueblo de Santiago de la Frontera fue fundado en 1575?",
+    "opciones": [
+      "Tomina",
+      "General Pereira",
+      "Potosí y Cuzco",
+      "Villa de San Juan de Rodas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 223,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Cerca de Tomina se fundó una villa impulsada por Melchor de Rodas, dentro del sistema defensivo contra los chiriguanos. ¿Qué villa fue fundada en 1580?",
+    "opciones": [
+      "300 a 400.000 pesos",
+      "Porcino",
+      "Asunción",
+      "Villa de San Juan de Rodas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 224,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En 1600, durante el gobierno de Luis de Velasco, se fundó un puerto con el nombre de San Marcos. ¿Qué general realizó esa fundación en Arica?",
+    "opciones": [
+      "San Lorenzo o Tarija la Vieja",
+      "Sebastián Barba de Padilla",
+      "Ordoño de Aguirre",
+      "Asunción"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 225,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La labor evangelizadora de los dominicos alrededor del lago Titicaca comenzó hacia 1540 y originó numerosos centros misionales. ¿Qué convento encabezado por Tomás de San Martín inició esa labor?",
+    "opciones": [
+      "Ordoño de Aguirre",
+      "Chucuito",
+      "Francisco Tito Yupanqui",
+      "Río Guapay"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 226,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En La Paz, la ubica ción entre Potosí y Cuzco le dio auge económico por postas y productos regionales. ¿Entre qué dos ciudades se encontraba este centro estratégico?",
+    "opciones": [
+      "Azogue",
+      "Potosí y Cuzco",
+      "Treinta leguas",
+      "Tomina"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 227,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La imagen de la Virgen de la Candelaria fue colocada en Copacabana por un escultor indígena que trabajaba en La Paz. ¿Quién talló esa imagen?",
+    "opciones": [
+      "Francisco Tito Yupanqui",
+      "Potosí y Cuzco",
+      "Villa de Oropesa",
+      "Ordoño de Aguirre"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 228,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En Potosí, la obra de La Ribera permitió organizar agua para los ingenios y lagunas artificiales de Cari Cari. ¿Qué general concluyó esa obra en 1575?",
+    "opciones": [
+      "Ordoño de Aguirre",
+      "Tomina",
+      "General Pereira",
+      "Potosí y Cuzco"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 229,
+    "tema": "Historia de Bolivia",
+    "pregunta": "A fines del siglo XVI, Potosí alcanzó gran esplendor y ostentación económica, con caudales muy elevados. ¿Qué monto anual aproximado de caudales medianos poseía la Villa Imperial hacia 1580?",
+    "opciones": [
+      "16.000 casas",
+      "Villa de San Juan de Rodas",
+      "Guatavita",
+      "300 a 400.000 pesos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 230,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El urbanismo potosino progresó hacia fines del siglo XVI con amplia distribución de viviendas y calles. ¿Cuántas casas tenía Potosí repartidas en 594 calles?",
+    "opciones": [
+      "300 a 400.000 pesos",
+      "Treinta leguas",
+      "16.000 casas",
+      "Potosí y Cuzco"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 231,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Sebastián Caboto exploró el Río de La Plata y luego remontó varios ríos hasta una zona cercana a otra expedición. ¿Hasta qué río llegó en 1526 antes de regresar?",
+    "opciones": [
+      "Río Bermejo",
+      "Isla su Maestre de Campo",
+      "Treinta leguas",
+      "Río Guapay"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 232,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En las exploraciones del Paraguay, Juan de Ayolas regresó a Buenos Aires y fue enviado a un nombramiento interior. ¿Qué cargo recibió Ayolas de Pedro de Mendoza?",
+    "opciones": [
+      "Asunción",
+      "Teniente gobernador",
+      "Treinta leguas",
+      "Erik el Rojo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 233,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Juan de Salazar salió en busca de Ayolas y fundó una ciudad importante al encontrar el lugar adecuado. ¿Qué ciudad fundó el 15 de agosto de 1537?",
+    "opciones": [
+      "Río Guapay",
+      "Teniente gobernador",
+      "Ordoño de Aguirre",
+      "Asunción"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 234,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Álvar Núñez Cabeza de Vaca llegó al Río de La Plata y avanzó hacia Asunción, donde tuvo problemas políticos. ¿Qué isla nombró durante su trayecto por el Iguazú?",
+    "opciones": [
+      "Isla su Maestre de Campo",
+      "Río Bermejo",
+      "Río Guapay",
+      "3 de agosto de 1492"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 235,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la leyenda de El Dorado, se relata un ritual anual donde el cacique cubierto de oro se sumergía ante su gente. ¿En qué laguna ocurría este rito?",
+    "opciones": [
+      "300 a 400.000 pesos",
+      "Asunción",
+      "Español",
+      "Guatavita"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 236,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Después de la entrada a los Xarayes, Chaves continuó hacia territorios tomacosis y fundó una población junto a un río. ¿Dónde fundó Nueva Asunción en agosto de 1559?",
+    "opciones": [
+      "Asunción",
+      "Isla su Maestre de Campo",
+      "Río Guapay",
+      "Don Juan de Avellaneda"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 237,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En las nuevas disputas entre Chaves y Manso, el mediador repartió territorios y luego fue sancionado por la Audiencia. ¿Quién actuó como mediador entre ambos conquistadores?",
+    "opciones": [
+      "Río Guapay",
+      "Don Juan de Avellaneda",
+      "Río Bermejo",
+      "Erik el Rojo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 238,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la conquista de las tierras del norte, Pedro de Candia organizó una expedición desde el Cuzco en 1538 y llegó a una zona denominada Abisca. ¿A cuántas leguas estaba del Cuzco?",
+    "opciones": [
+      "370 leguas",
+      "Treinta leguas",
+      "Río Bermejo",
+      "Erik el Rojo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 239,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante las exploraciones previas al descubrimiento europeo de América, los navegantes del norte de Europa cruzaron el Atlántico Norte y llegaron a Groenlandia. ¿Qué personaje es mencionado como figura destacada de esa empresa?",
+    "opciones": [
+      "Treinta leguas",
+      "Hierro",
+      "Erik el Rojo",
+      "Teniente gobernador"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 240,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En los descubrimientos marítimos del siglo XV, Portugal tuvo influencia decisiva y el mayor impulsor de esos viajes fue un príncipe portugués. ¿Qué personaje recibió el apelativo de “El Navegante”?",
+    "opciones": [
+      "370 leguas",
+      "Erik el Rojo",
+      "Isla su Maestre de Campo",
+      "Infante Enrique"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 241,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la exposición sobre Cristóbal Colón, se menciona que hablaba y escribía en un idioma específico, dentro de la discusión sobre su origen y nacionalidad. ¿Qué idioma se indica?",
+    "opciones": [
+      "Español",
+      "Trujillo",
+      "Huayna Capac y Tupac Palla",
+      "Tierra Firme"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 242,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el primer viaje colombino, la expedición salió de Palos y después de navegar llegó a una isla identificada actualmente como Watling. ¿En qué fecha se produjo la salida inicial?",
+    "opciones": [
+      "3 de agosto de 1492",
+      "1519",
+      "Tierra Firme",
+      "Isla su Maestre de Campo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 243,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el tercer viaje, Colón salió de Sanlúcar de Barrameda, pasó por Canarias y descubrió una costa occidental del continente en la desembocadura del Orinoco. ¿Cómo denominó a ese territorio?",
+    "opciones": [
+      "3 de agosto de 1492",
+      "Tierra Firme",
+      "Asunción",
+      "1519"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 244,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la división territorial entre España y Portugal, se acordó una línea que pasaba a cierta distancia del Cabo Verde. ¿A cuántas leguas se fijó la nueva demarcación?",
+    "opciones": [
+      "Treinta leguas",
+      "Oro y plata",
+      "370 leguas",
+      "Infante Enrique"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 245,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La expedición que logró culminar la primera vuelta al mundo partió de Sevilla, cruzó Sudamérica y atravesó el estrecho que lleva el nombre de su capitán. ¿En qué año salió esa expedición?",
+    "opciones": [
+      "3 de agosto de 1492",
+      "1492",
+      "Treinta leguas",
+      "1519"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 246,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el contexto del mundo renacentista, España consolidó su poder tras la derrota definitiva de los árabes en Granada. ¿En qué año se produjo ese hecho mencionado como decisivo?",
+    "opciones": [
+      "1519",
+      "370 leguas",
+      "1492",
+      "1534 y 1536"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 247,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la comparación tecnológica entre Europa y América, se enumeran elementos que favorecieron la conquista, como lengua escrita, rueda y metales. ¿Qué metal se menciona expresamente como dominado por los europeos?",
+    "opciones": [
+      "Hierro",
+      "Oro y plata",
+      "Erik el Rojo",
+      "Hernán Cortés"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 248,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la explicación de los móviles de la conquista, se mencionan dos razones tradicionales vinculadas al enriquecimiento y a la evangelización. ¿Qué acción religiosa se relaciona con la segunda razón?",
+    "opciones": [
+      "Virreinato del Perú",
+      "Extender la palabra de Cristo",
+      "Trujillo",
+      "Nueva Toledo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 249,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la narración de los dos grandes momentos de la conquista, se menciona la caída del reino azteca y de su ciudad principal. ¿Qué conquistador tomó Tenochtitlán el 13 de agosto de 1521?",
+    "opciones": [
+      "Trujillo",
+      "Haucaypata",
+      "Hierro",
+      "Hernán Cortés"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 250,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la biografía de Atahuallpa, se indica que nació cerca de Quito y fue hijo de un inca y una princesa. ¿Quiénes aparecen como sus padres?",
+    "opciones": [
+      "Trujillo",
+      "Acllahuasi de la Isla de la Luna",
+      "Oro y plata",
+      "Huayna Capac y Tupac Palla"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 251,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la biografía de Francisco Pizarro, se indica su origen, trayectoria y papel en la conquista del imperio incaico. ¿En qué ciudad española nació este conquistador?",
+    "opciones": [
+      "Trujillo",
+      "Huayna Capac y Tupac Palla",
+      "Batalla de las Salinas",
+      "Español"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 252,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el episodio del rescate de Atahuallpa, el Inca prometió llenar una habita ción hasta cierta altura con metales preciosos. ¿Qué metales componían principalmente el rescate ofrecido?",
+    "opciones": [
+      "Hierro",
+      "Oro y plata",
+      "Huayna Capac y Tupac Palla",
+      "Acllahuasi de la Isla de la Luna"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 253,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tras la muerte de Atahuallpa, se relata que la ejecución se hizo en la plaza de una ciudad andina, después de acusarlo de traición. ¿Dónde se realizó esa ejecución?",
+    "opciones": [
+      "Acllahuasi de la Isla de la Luna",
+      "Alonso de Mendoza",
+      "Cajamarca",
+      "Huayna Capac y Tupac Palla"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 254,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la descripción del Cuzco, se menciona una zona ceremonial con grandes bloques de piedra, puertas y ventanas trapezoidales. ¿Cómo se llamaba esa imponente zona ceremonial?",
+    "opciones": [
+      "Hernán Cortés",
+      "Batalla de las Salinas",
+      "Haucaypata",
+      "1534 y 1536"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 255,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La rebelión de Manco II se desarrolló después de la ocupación española del Cuzco y buscó recuperar el poder imperial. ¿Entre qué años se inició la campaña contra los quiteños?",
+    "opciones": [
+      "1534 y 1536",
+      "Virreinato del Perú",
+      "Trujillo",
+      "Plata"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 256,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La consolidación de la conquista se asocia con la retirada de Manco a Vilcabamba y la organización colonial posterior. ¿Qué institución se creó en 1543?",
+    "opciones": [
+      "Blasco Núñez de Vela",
+      "1534 y 1536",
+      "Trujillo",
+      "Virreinato del Perú"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 257,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la conquista de Charcas, el territorio concedido a Franc isco Pizarro recibió un nombre y el de Almagro otro. ¿Cómo se denominó la gobernación asignada a Almagro?",
+    "opciones": [
+      "Batalla de las Salinas",
+      "Nueva Toledo",
+      "Acllahuasi de la Isla de la Luna",
+      "Trujillo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 258,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la expedición de Almagro, se menciona la ayuda del Inca Paullu, hermano menor de Atahuallpa y colaborador de los españoles. ¿Dónde nació Paullu?",
+    "opciones": [
+      "Huayna Capac y Tupac Palla",
+      "Batalla de las Salinas",
+      "Cajamarca",
+      "Acllahuasi de la Isla de la Luna"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 259,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En las guerras entre Pizarro y Almagro, Francisco Pizarro logró escapar del Cuzco y comenzó una guerra entre bandos. ¿En qué batalla fue derrotado Diego de Almagro?",
+    "opciones": [
+      "Batalla de las Salinas",
+      "Nueva Toledo",
+      "Trujillo",
+      "Acllahuasi de la Isla de la Luna"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 260,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El proceso de formación de la vida continental incluyó denuncias contra abusos cometidos en América, especialmente en el Alto Perú. ¿Qué religioso aparece como protector y defensor de los indígenas?",
+    "opciones": [
+      "Pedro de La Gasca",
+      "Bartolomé de Las Casas",
+      "Blasco Núñez de Vela",
+      "Quechua"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 261,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las Ordenanzas de Barcelona buscaban reprimir abusos de conquistadores y organizar el gobierno colonial. ¿Qué funcionario llevó la misión específica de cumplirlas en Lima como virrey?",
+    "opciones": [
+      "Lima",
+      "1572",
+      "Blasco Núñez de Vela",
+      "Alonso de Mendoza"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 262,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Conocido como pacificador, un clérigo sagaz llegó al Perú en 1547 y atrajo partidarios del rebelde Pizarro. ¿Qué personaje recibió plenos poderes para pacificar el Perú?",
+    "opciones": [
+      "Oropesa",
+      "Pedro de La Gasca",
+      "Bartolomé de Las Casas",
+      "Nueva Toledo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 263,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Para conmemorar la co nclusión de las guerras civiles del Virreinato, La Gasca envió a un capitán realista a fundar una nueva ciudad. ¿Quién recibió esa misión?",
+    "opciones": [
+      "Luis Fuentes",
+      "Blasco Núñez de Vela",
+      "Alonso de Mendoza",
+      "Batalla de las Salinas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 264,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la explicación sobre Potosí, el Cerro Rico aparece como símbolo de riqu eza, poder y transformación del imperio español. ¿Qué yacimientos fueron descubiertos allí?",
+    "opciones": [
+      "Plata",
+      "1534 y 1536",
+      "1572",
+      "Bartolomé de Las Casas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 265,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Tras el crecimiento minero, Potosí recibió una fundación y planeamiento formal durante el gobierno del virrey Toledo. ¿En qué año se reconoce esa verdadera fundación urbana?",
+    "opciones": [
+      "Luis Fuentes",
+      "Oropesa",
+      "Blasco Núñez de Vela",
+      "1572"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 266,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los disturbios entre Castilla y Godínez comenzaron por una reyerta personal que involucró a un encomendero de Chayanta. ¿Quién fue ese encomendero mencionado al inicio del conflicto?",
+    "opciones": [
+      "Martín Enríquez de Almansa",
+      "Francisco de Toledo",
+      "Martín de Robles",
+      "Lima"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 267,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Francisco de Toledo es presentado como descendiente de familia aristocrática, formado en la corte de Carlos I y nombrado virrey del Perú. ¿En qué lugar nació?",
+    "opciones": [
+      "Luis Fuentes",
+      "Oropesa",
+      "Martín Enríquez de Almansa",
+      "1572"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 268,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las Ordenanzas Toledanas resumían la filosofía y objetivos del gobernante, regulando vida cívica, laboral, pública y privada. ¿En qué idioma debía realizarse la catequización indígena?",
+    "opciones": [
+      "Quechua",
+      "Martín Enríquez de Almansa",
+      "Blasco Núñez de Vela",
+      "Siete años"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 269,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la organización del tributo indígena, Toledo buscó sustitui r el pago en especie por moneda, aunque predominó el pago en especies. ¿Qué rango de edad estaba obligado a tributar?",
+    "opciones": [
+      "Martín Enríquez de Almansa",
+      "Luis Fuentes",
+      "Oropesa",
+      "18 a 50 años"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 270,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La mita toledana modificó un sistema de trabajo heredado de los incas y asignó mitayos por turno. ¿Cada cuántos años debía proveer mitayos una población?",
+    "opciones": [
+      "Cultivo y comercio",
+      "Quechua",
+      "Luis Fuentes",
+      "Siete años"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 271,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la reglamentación sobre la coca, Toledo observó su importancia para mitayos y obrajes, debido al mayor rendimiento físico. ¿Qué aspecto de la coca reglamentó?",
+    "opciones": [
+      "Cultivo y comercio",
+      "Siete años",
+      "Martín Enríquez de Almansa",
+      "Luis Fuentes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 272,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el ámbito religioso colonial, se menciona un tribunal dependiente del Consejo de la Suprema y General Inquisición Española. ¿En qué ciudad estableció el virrey ese tribunal?",
+    "opciones": [
+      "Blasco Núñez de Vela",
+      "Martín Enríquez de Almansa",
+      "Lima",
+      "Francisco de Toledo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 273,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Por provisión de Francisco de Toledo, se encargó la fundación de una villa en el valle de Tarija, en región de chiriguanos. ¿Quién recibió esa comisión?",
+    "opciones": [
+      "1572",
+      "Luis Fuentes",
+      "Oropesa",
+      "Alonso de Mendoza"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 274,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Para asegurar poblaciones frente a ataques chiriguanos, se dispuso una lín ea de ciudades conocida como frontera. ¿Qué ciudades aparecen mencionadas como parte de esta línea?",
+    "opciones": [
+      "Tomina, Tarabuco, Villar y Presto",
+      "Luis Fuentes",
+      "Alto Paraguay y Pilcomayo",
+      "Nuestra Señora del Buen Aire"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 275,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Entre los sucesores de Toledo, se menciona a un gobernante que administró el reino entre 1580 y 1583. ¿Quién gobernó el Perú en ese periodo?",
+    "opciones": [
+      "Oropesa",
+      "Francisco de Toledo",
+      "Paraguay, Mato Grosso y Amazonas",
+      "Martín Enríquez de Almansa"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 276,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las misiones del lago y de La Paz recibieron impulso dominico y luego jesuita; también se menciona un reformador que transformó las misiones. ¿Quién fue ese reformador?",
+    "opciones": [
+      "Martín Enríquez de Almansa",
+      "Lima",
+      "Francisco de Toledo",
+      "Alto Paraguay y Pilcomayo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 277,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En Potosí, a fines del siglo XVI, se menciona una obra vinculada a ingenios y lagunas artificiales. ¿Quién fue el gobernador que fundó esas lagunas?",
+    "opciones": [
+      "1559",
+      "Martín García de Loyola",
+      "1590",
+      "Nuestra Señora del Buen Aire"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 278,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La gobernación de Santa Cruz es presentada como un eje de articulación entre occidente y oriente, vinculada a Ñuflo de Chaves. ¿En qué año fundó Nueva Asunción?",
+    "opciones": [
+      "1559",
+      "26 de febrero de 1561",
+      "1590",
+      "Alto Paraguay y Pilcomayo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 279,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Juan Díaz de Solís exploró la costa uruguaya y llegó a la desembocadura del Plata, donde desembarcó y perdió la vida. ¿En qué año llegó a esa desembocadura?",
+    "opciones": [
+      "Alto Paraguay y Pilcomayo",
+      "Nuestra Señora del Buen Aire",
+      "1516",
+      "Quechua"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 280,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Pedro de Mendoza fue autorizado por Carlos V y salió de Sanlúcar con once naves para una expedición al Río de La Plata. ¿Qué ciudad fundó en 1536?",
+    "opciones": [
+      "Martín García de Loyola",
+      "1559",
+      "1516",
+      "Nuestra Señora del Buen Aire"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 281,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Ñuflo Chaves llegó a Asunción formando parte de la expedición de Cabeza de Vaca y luego exploró el Alto Paraguay y el Pilcomayo. ¿Qué territorio recorrió entre 1544 y 1546?",
+    "opciones": [
+      "1559",
+      "Alto Paraguay y Pilcomayo",
+      "1516",
+      "Álvarez de Maldonado"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 282,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La leyenda de El Dorado y el Paititi impulsó exploraciones por regiones selváticas de Sudamérica, especialmente hacia un reino misterioso. ¿En qué región se creyó más tarde que estaba El Dorado?",
+    "opciones": [
+      "Paraguay, Mato Grosso y Amazonas",
+      "Martín Enríquez de Almansa",
+      "Atahuallpa y Huáscar",
+      "Luis Fuentes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 283,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la fundación de Santa Cruz de la Sierra, Chaves regresó a la Barranca después de reforzar sus tropas. ¿En qué fecha fundó Santa Cruz de la Sierra?",
+    "opciones": [
+      "1559",
+      "26 de febrero de 1561",
+      "1590",
+      "Alto Paraguay y Pilcomayo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 284,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La fundación de San Lorenzo y el traslado de Santa Cruz se vinculan con Lorenzo Suárez de Figueroa, nombrado gobernador en 1581. ¿En qué año fundó San Lorenzo el Real?",
+    "opciones": [
+      "26 de febrero de 1561",
+      "1559",
+      "1590",
+      "Martín García de Loyola"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 285,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En las expediciones de Maldonado y Tordoya, el primer capitán ingresó a territorio de los chunchos y recibió una orden desde el virrey. ¿Quién encabezó la expedición de 1567?",
+    "opciones": [
+      "Alto Paraguay y Pilcomayo",
+      "Nuestra Señora del Buen Aire",
+      "Luis Fuentes",
+      "Álvarez de Maldonado"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 286,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Al llegar los españoles al Collasuyo, encontra ron una doble estructura integrada por instituciones incas y etnias aimaras incorporadas al imperio. ¿Qué idioma oficial continuó durante la colonia?",
+    "opciones": [
+      "Atahuallpa y Huáscar",
+      "Curaca y Mallcu",
+      "Uncu",
+      "Quechua"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 287,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Al llegar los españoles, el Tahuantinsuyo estaba dividido por una guerra civil entre dos hijos de Huayna Capac. ¿Qué hermanos encabezaban esa confrontación?",
+    "opciones": [
+      "Atahuallpa y Huáscar",
+      "Quechua",
+      "Paraguay, Mato Grosso y Amazonas",
+      "Curaca y Mallcu"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 288,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El Taqui Oncoy fue un levantamiento religioso de carácter andino que planteaba expulsar a los invasores y restaurar antiguos c ultos. ¿Qué significado castellano se asigna a su nombre?",
+    "opciones": [
+      "Atahuallpa y Huáscar",
+      "Álvarez de Maldonado",
+      "Enfermedad del baile",
+      "Curaca y Mallcu"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 289,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el gobierno de Toledo se organizó un nuevo sistema tributario indígena, calculado por ingresos comunitarios y número de varones. ¿Qué autoridad mandó hacer la Tasa?",
+    "opciones": [
+      "18 de septiembre de 1559",
+      "Francisco de Toledo",
+      "Nombre de Dios",
+      "Plata"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 290,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las autoridades virreinales mantuvieron tambos en caminos y ciudades para abastecer a ejércitos, incas y mitayos. ¿Qué actividad se hacía en el patio grande de los tambos?",
+    "opciones": [
+      "Quechua",
+      "Por su conocimiento de la medicina",
+      "Paraguay, Mato Grosso y Amazonas",
+      "Venta de productos de la tierra"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 291,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las reducciones modificaron la urbanización rural y reunieron pueblos dispersos con plaza, iglesia, cabildo y terrenos. ¿Qué pueblo se menciona como conservador de urbanismo aimara anterior?",
+    "opciones": [
+      "Iglesias de pueblos y villas",
+      "Chipaya",
+      "Pedro Cieza de León",
+      "Uncu"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 292,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las ordenanzas de Toledo respetaron cacicazgos y derechos de caciques indígenas, y recogieron nombres traídos por españoles desde el Caribe. ¿Qué nombres aimaras correspondían a cacique?",
+    "opciones": [
+      "Curaca y Mallcu",
+      "Quechua",
+      "Uncu",
+      "Atahuallpa y Huáscar"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 293,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Fuera del altiplano y al norte de La Paz, los callahuayas son mencionados por un conocimiento particular que se conserva hasta hoy. ¿Por qué son famosos?",
+    "opciones": [
+      "Plata",
+      "Venta de productos de la tierra",
+      "Por su conocimiento de la medicina",
+      "Iglesias de pueblos y villas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 294,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La identidad de los pueblos aimaras se conservaba mediante seña les exteriores, especialmente la vestimenta y los textiles. ¿Qué prenda masculina se describe como túnica indígena hecha de una sola pieza?",
+    "opciones": [
+      "Uncu",
+      "Curaca y Mallcu",
+      "Quechua",
+      "Paraguay, Mato Grosso y Amazonas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 295,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El sistema esclavista en Charcas se vinculó al comercio atlántico y a rutas hacia Potosí. ¿Desde qué puerto eran llevados los esclavos con destino al Perú?",
+    "opciones": [
+      "Casa de Contratación",
+      "18 de septiembre de 1559",
+      "Jesuitas",
+      "Nombre de Dios"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 296,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La legislación colonial clasificaba a la población negra y afrodescendiente en castas, con categorías específicas. ¿Cómo se llamaba el hijo de español y mujer negra?",
+    "opciones": [
+      "Plata",
+      "Felipe de Anjou",
+      "Mulato",
+      "Diego González Holguín"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 297,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Para organizar los nuevos territorios americanos, la Corona creó órganos de manejo jurisdiccional y político. ¿Qué institución fue creada por los Reyes Católicos el 20 de enero de 1503?",
+    "opciones": [
+      "18 de septiembre de 1559",
+      "Casa de Contratación",
+      "Audiencia",
+      "Nombre de Dios"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 298,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La Audiencia de Charcas fue creada como máxima autoridad jurídica y administrativa del sur del Virreinato del Perú. ¿Qué cédula real dispuso su creación?",
+    "opciones": [
+      "18 de septiembre de 1559",
+      "Virreinato de Buenos Aires",
+      "Iglesias de pueblos y villas",
+      "Nombre de Dios"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 299,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La economía inicial del periodo colonial en el Altiplano se organizó alrededor de la explotación minera. ¿Qué producto concentró primero la economía y luego fue desplazado por otro?",
+    "opciones": [
+      "Por su conocimiento de la medicina",
+      "Francisco de Toledo",
+      "Plata",
+      "Mulato"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 300,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Los establecimientos religiosos llegaron a Charcas en distintos mom entos; los dominicos penetraron en 1539 y otros grupos después. ¿Qué orden religiosa entró a Charcas en 1572?",
+    "opciones": [
+      "Virreinato de Buenos Aires",
+      "18 de septiembre de 1559",
+      "Nombre de Dios",
+      "Jesuitas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 301,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Dentro de los historiadores del siglo XVI, se menciona a un soldado que participó en la conquista y escribió una relación del Perú. ¿Quién fue ese cronista?",
+    "opciones": [
+      "Diego González Holguín",
+      "Pedro Cieza de León",
+      "18 de septiembre de 1559",
+      "Nombre de Dios"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 302,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las primeras construcciones de la Audiencia de Charcas tuvieron interés artístico y se levantaron en pueblos recién fundados. ¿Qué tipo de edificio predominó antes de 1580?",
+    "opciones": [
+      "Virreinato de Buenos Aires",
+      "18 de septiembre de 1559",
+      "Jesuitas",
+      "Iglesias de pueblos y villas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 303,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La pintura en el Alto Perú se inició con la importación de obras europeas, especialmente tablas flamencas de gran influencia renacentista. ¿De qué regiones procedían esas tablas?",
+    "opciones": [
+      "Uncu",
+      "26 de julio de 1826",
+      "Bélgica y Holanda",
+      "Pedro Cieza de León"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 304,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La decadencia española se vincula con guerras en Países Bajos, Francia, el mar y la sucesión tras Carlos II. ¿Qué efecto tuvieron esas luchas en España?",
+    "opciones": [
+      "Felipe de Anjou",
+      "Debilitaron sus arcas",
+      "Iglesias de pueblos y villas",
+      "Bélgica y Holanda"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 305,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las rutas comerciales coloniales estuvieron reguladas por ideas mercantilistas que reservaban comercio y navegación a la Corona. ¿Qué institución fiscalizaba lo que llegaba y salía de América?",
+    "opciones": [
+      "Casa de Contratación",
+      "Nombre de Dios",
+      "Audiencia",
+      "Debilitaron sus arcas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 306,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El conocimiento de lenguas indígenas avanzó co nforme los conquistadores penetraban nuevas tierras. ¿Quién escribió en 1607 un vocabulario quechua mencionado dentro de la lingüística colonial?",
+    "opciones": [
+      "Diego González Holguín",
+      "Pedro Cieza de León",
+      "Mulato",
+      "Plata"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 307,
+    "tema": "Historia de Bolivia",
+    "pregunta": "A la muerte de Carlos II, el trono español quedó sin sucesión directa y varios aspirantes buscaron ocuparlo. ¿Qué candidato fue coronado rey por favorecerle el testamento?",
+    "opciones": [
+      "Debilitaron sus arcas",
+      "Felipe de Anjou",
+      "Mulato",
+      "Diego González Holguín"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 308,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las rebeliones de comuneros y de Calatayud expresaron tensiones entre autoridades, criollos y mestizos. ¿ Qué poder local se supervaloraba frente al representante de la Corona?",
+    "opciones": [
+      "Voto en paquete",
+      "Casa de Contratación",
+      "Federico Lafaye",
+      "Audiencia"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 309,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La Audiencia de Charcas pasó a otra jurisdicción en 1776, incluyendo sus intendencias principales. ¿A qué virreinato se incorporó desde ese año?",
+    "opciones": [
+      "18 de septiembre de 1559",
+      "Iglesias de pueblos y villas",
+      "Virreinato de Buenos Aires",
+      "Jesuitas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 310,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Sucre recibió en Puno un borrador de decreto enviado a Bolívar, quien lo vio con desagrado por afectar su proyecto continental. ¿Qué autonomía se propiciaba en ese decreto?",
+    "opciones": [
+      "Estaño",
+      "26 de julio de 1826",
+      "Pedro Cieza de León",
+      "Autonomía del Alto Perú"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 311,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En el gobierno de Sucre se modificó el símbolo estatal mediante una norma que hablaba del “gran sello de la República”. ¿En qué fecha se produjo esa modificación?",
+    "opciones": [
+      "David Padilla Arancibia",
+      "26 de julio de 1826",
+      "Rogelio Miranda",
+      "Autonomía del Alto Perú"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 312,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La Constitución modificada durante la construcción republicana prohibió la esclavitud y añadió nuevos departamentos a los originales. ¿Qué departamentos fueron agregados?",
+    "opciones": [
+      "Estaño",
+      "Autonomía del Alto Perú",
+      "Tarija y el Litoral",
+      "Virreinato de Buenos Aires"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 313,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la guerra contra la Confederación, un ministro chileno impulsó la decisión bélica considerando que Bolivia y Perú unidos serían superiores a Chile. ¿Quién promovió esa postura?",
+    "opciones": [
+      "Diego Portales",
+      "Peso boliviano",
+      "Pedro Cieza de León",
+      "Bélgica y Holanda"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 314,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Durante el periodo belicista, se incrementó la explotación de un mineral y se pensó instalar una fundición nacional. ¿Qué mineral aparece relacionado con ese proyecto?",
+    "opciones": [
+      "Autonomía del Alto Perú",
+      "Universidad Mayor de San Andrés",
+      "Andrés Ibáñez",
+      "Estaño"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 315,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En 1863, el país conoció el hallazgo de importantes recursos en el Departamento del Litoral por iniciativa de ciudadanos chilenos. ¿Qué yacimientos fueron descubiertos allí?",
+    "opciones": [
+      "Voto en paquete",
+      "Guano y salitre",
+      "David Padilla Arancibia",
+      "Felipe de Anjou"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 316,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Agustín Morales participó en conflictos políticos y militares, llegó al poder tras derrotar a Melgarejo y sufrió un final violento. ¿Quién lo asesinó en 1872?",
+    "opciones": [
+      "Federico Lafaye",
+      "Audiencia",
+      "Treinta años de cárcel sin derecho a indulto",
+      "Debilitaron sus arcas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 317,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El movimiento igualitario de Santa Cruz proclamó una federación en Navidad de 1876 y fue derrotado militarmente. ¿Quién aparece como líder federalista fusilado en 1877?",
+    "opciones": [
+      "Universidad Mayor de San Andrés",
+      "Estaño",
+      "Andrés Ibáñez",
+      "Federico Lafaye"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 318,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La universalización del voto trajo cambios estructurales al sistema electoral posterior a 1952, incluyendo elección simultánea para autoridades nacionales. ¿Qué tipo de voto se estableció?",
+    "opciones": [
+      "Virreinato de Buenos Aires",
+      "Evo Morales y Antonio Peredo",
+      "Voto en paquete",
+      "Audiencia"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 319,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El segundo gobierno de Paz Estenssoro impulsó estabilización monetaria y medidas de seguridad social. ¿Qué signo monetario se creó en 1962 con equivalencia de 12 por dólar?",
+    "opciones": [
+      "Peso boliviano",
+      "David Padilla Arancibia",
+      "Diego Portales",
+      "26 de julio de 1826"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 320,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La crisis militar de 1970 produjo la renuncia de Ovando y la conformación de un triunvirato. ¿Qué general lideraba los sectores de derecha en esa pugna?",
+    "opciones": [
+      "La mediación de la Iglesia",
+      "Rogelio Miranda",
+      "26 de julio de 1826",
+      "Referendo vinculante"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 321,
+    "tema": "Historia de Bolivia",
+    "pregunta": "El gobierno de Pereda intentó presentarse como transición democrática, pero fue desplazado por un golpe incruento. ¿Qué general llegó al gobierno después de ese golpe?",
+    "opciones": [
+      "Treinta años de cárcel sin derecho a indulto",
+      "26 de julio de 1826",
+      "2013",
+      "David Padilla Arancibia"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 322,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Luis García Meza fue cabecilla del golpe del 17 de julio de 1980 y luego condenado tras juicio de responsabilidades. ¿Qué condena recibió en 1993?",
+    "opciones": [
+      "David Padilla Arancibia",
+      "Treinta años de cárcel sin derecho a indulto",
+      "Federico Lafaye",
+      "Autonomía del Alto Perú"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 323,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la narrativa cultural contemporánea, se menciona el cuento boliviano y autores de la generación del sesenta. ¿Qué escritor es señalado como excepcional cultor del cuento minero?",
+    "opciones": [
+      "Leonardo García HISTORIA UNIVERSAL CONTEMPORÁNEA PREGUNTAS Y RESPUESTAS 334-533",
+      "Wálter Solón Romero",
+      "René Poppe",
+      "MAS"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 324,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la pintura mural boliviana, el grupo ANTEO surgió en Sucre con artistas vinculados a murales públicos. ¿Quién es descrito como el más grande de los muralistas bolivianos?",
+    "opciones": [
+      "Leonardo García HISTORIA UNIVERSAL CONTEMPORÁNEA PREGUNTAS Y RESPUESTAS 334-533",
+      "Evo Morales y Antonio Peredo",
+      "René Poppe",
+      "Wálter Solón Romero"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 325,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La crisis del gobierno de Siles Zuazo derivó en una huelga de hambre presidencial y en una salida acordada. ¿Qué permitió la solución política de esa crisis?",
+    "opciones": [
+      "La mediación de la Iglesia",
+      "Referendo vinculante",
+      "Rogelio Miranda",
+      "David Padilla Arancibia"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 326,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Víctor Hugo Cárdenas aparece como figura vinculada al katarismo, la reforma educativa y la vida universitaria. ¿En qué universidad estudió pedagogía?",
+    "opciones": [
+      "12 de agosto de 1994",
+      "Universidad Mayor de San Andrés",
+      "Andrés Ibáñez",
+      "Leonardo García HISTORIA UNIVERSAL CONTEMPORÁNEA PREGUNTAS Y RESPUESTAS 334-533"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 327,
+    "tema": "Historia de Bolivia",
+    "pregunta": "La reforma constitucional de 1994 incorporó cambios institucionales, electorales y de derechos, respetando mecanismos de la propia Carta Magna. ¿En qué fecha fue promulgada la Constitución reformada?",
+    "opciones": [
+      "Universidad Mayor de San Andrés",
+      "Voto en paquete",
+      "12 de agosto de 1994",
+      "2013"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 328,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la lucha contra la corrupción, el gobierno buscó institucionalizar la Aduana mediante una nueva ley. ¿Qué órgano debía nombrar directamente al directorio y al director autónomos?",
+    "opciones": [
+      "Congreso",
+      "David Padilla Arancibia",
+      "2013",
+      "La mediación de la Iglesia"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 329,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Las elecciones de 2002 rompieron el trípode MNR-ADN-MIR y modificaron el escenario democrático. ¿Qué binomio surgió desde el MAS en esa elección?",
+    "opciones": [
+      "MAS",
+      "Wálter Solón Romero",
+      "Voto en paquete",
+      "Evo Morales y Antonio Peredo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 330,
+    "tema": "Historia de Bolivia",
+    "pregunta": "Al asumir la presidencia en 2003, Carlos D. Mesa planteó una agenda para enfrentar la crisis política. ¿Qué consulta se comprometió a convocar sobre el gas?",
+    "opciones": [
+      "La mediación de la Iglesia",
+      "Rogelio Miranda",
+      "MAS",
+      "Referendo vinculante"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 331,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En las elecciones posteriores, se menciona que por primera vez desde 1966 un candidato obtuvo el 50% más uno de los sufragios. ¿Qué fuerza política logró más de un millón de votos?",
+    "opciones": [
+      "Evo Morales y Antonio Peredo",
+      "Referendo vinculante",
+      "MAS",
+      "La mediación de la Iglesia"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 332,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la denuncia de la Convención de Viena, el gobierno defendió la hoja de coca como parte de usos y costumbres. ¿En qué año Bolivia reingresó con reserva aceptada?",
+    "opciones": [
+      "2013",
+      "David Padilla Arancibia",
+      "La mediación de la Iglesia",
+      "Congreso"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 333,
+    "tema": "Historia de Bolivia",
+    "pregunta": "En la poesía boliviana reciente, se menciona una generación de renovación del lenguaje y autores de los años 2000. ¿Qué poeta aparece con la obra Río subterráneo de 1984?",
+    "opciones": [
+      "René Poppe",
+      "Leonardo García HISTORIA UNIVERSAL CONTEMPORÁNEA PREGUNTAS Y RESPUESTAS 334-533",
+      "Wálter Solón Romero",
+      "Universidad Mayor de San Andrés"
+    ],
+    "correcta": 1
+  }
+]

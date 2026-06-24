@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Simulador PSA Derecho Diameeeee</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="recursos/logo.png">
+</head>
+<body>
+  <div class="app">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">PSA Derecho UMSA</p>
+        <h1>Simulador de examen</h1>
+        <p class="subtitle">Elige una materia y practica con preguntas de selección múltiple.Tu puedes Diame</p>
+      </div>
+    </header>
+
+    <section class="panel" id="menuPanel">
+      <h2>Elegir materia</h2>
+      <div class="grid four">
+        <button class="choice" data-topic="historia_bolivia">Historia de Bolivia</button>
+        <button class="choice" data-topic="historia_universal">Historia Universal</button>
+        <button class="choice" data-topic="constitucion">Constitución</button>
+        <button class="choice" data-topic="filosofia">Filosofía</button>
+      </div>
+
+      <div class="controls">
+        <label>
+          Modo
+          <select id="modeSelect">
+            <option value="quick">Examen rápido (10 preguntas / 10 min)</option>
+            <option value="full">Examen completo (50 preguntas / 50 min)</option>
+          </select>
+        </label>
+
+        <button id="startBtn" class="primary" disabled>Empezar</button>
+      </div>
+
+      <p class="hint">Primero selecciona una materia. Luego podrás responder y ver al final cuáles fueron correctas y cuáles incorrectas.</p>
+    </section>
+
+    <section class="panel hidden" id="quizPanel">
+      <div class="topbar">
+        <div>
+          <h2 id="quizTitle">Examen</h2>
+          <p id="quizMeta" class="meta"></p>
+        </div>
+        <div class="timer" id="timer">10:00</div>
+      </div>
+
+      <div class="progressWrap">
+        <div class="progressBar"><div id="progressFill"></div></div>
+        <div id="progressText" class="progressText">Pregunta 1 de 10</div>
+      </div>
+
+      <article class="questionCard">
+        <p id="questionText" class="questionText"></p>
+        <div id="options" class="options"></div>
+      </article>
+
+      <div class="answerFeedback" id="answerFeedback"></div>
+
+      <div class="controls bottom">
+        <button id="nextBtn" class="primary" disabled>Siguiente</button>
+        <button id="finishBtn">Terminar examen</button>
+      </div>
+    </section>
+
+    <section class="panel hidden" id="resultPanel">
+      <h2>Resultado</h2>
+      <div class="resultGrid">
+        <div class="resultBox">
+          <span id="scoreText">0/0</span>
+          <small>Puntaje</small>
+        </div>
+        <div class="resultBox">
+          <span id="percentText">0%</span>
+          <small>Porcentaje</small>
+        </div>
+        <div class="resultBox">
+          <span id="topicText">-</span>
+          <small>Materia</small>
+        </div>
+        <div class="resultBox">
+          <span id="modeText">-</span>
+          <small>Modo</small>
+        </div>
+      </div>
+
+      <div id="reviewList" class="reviewList"></div>
+
+      <div class="controls">
+        <button id="restartBtn" class="primary">Volver al inicio</button>
+      </div>
+    </section>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
