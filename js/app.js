@@ -1,8 +1,8 @@
 const DATA_MAP = {
-  historia_bolivia: "../data/historia_bolivia.json",
-  historia_universal: "../data/historia_universal.json",
-  constitucion: "../data/constitucion.json",
-  filosofia: "../data/filosofia.json",
+  historia_bolivia: "data/historia_bolivia.json",
+  historia_universal: "data/historia_universal.json",
+  constitucion: "data/constitucion.json",
+  filosofia: "data/filosofia.json",
 };
 
 const STATE = {
